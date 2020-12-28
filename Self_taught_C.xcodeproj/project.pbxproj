@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BC0DB66D259A2D0000016AC9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC0DB66C259A2D0000016AC9 /* main.c */; };
+		BC0DB675259A2F7600016AC9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC0DB674259A2F7600016AC9 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		BC0DB669259A2D0000016AC9 /* Self_taught_C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Self_taught_C; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC0DB66C259A2D0000016AC9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC0DB674259A2F7600016AC9 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		BC0DB660259A2D0000016AC9 = {
 			isa = PBXGroup;
 			children = (
-				BC0DB66B259A2D0000016AC9 /* Self_taught_C */,
+				BC0DB66B259A2D0000016AC9 /* 1-2 Creat new project */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BC0DB66B259A2D0000016AC9 /* Self_taught_C */ = {
+		BC0DB66B259A2D0000016AC9 /* 1-2 Creat new project */ = {
 			isa = PBXGroup;
 			children = (
-				BC0DB66C259A2D0000016AC9 /* main.c */,
+				BC0DB674259A2F7600016AC9 /* main.c */,
 			);
-			path = Self_taught_C;
+			path = "1-2 Creat new project";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC0DB66D259A2D0000016AC9 /* main.c in Sources */,
+				BC0DB675259A2F7600016AC9 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
