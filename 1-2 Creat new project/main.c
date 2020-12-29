@@ -1,6 +1,6 @@
 //
 //  main.c
-//  2_for.c
+//  1-2 Create new project
 //
 //  Created by 하동훈 on 2020/12/28.
 //  Copyright © 2020 P0tt3r. All rights reserved.
