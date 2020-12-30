@@ -24,4 +24,5 @@ int main(void)
     printf("a의 음수 연산 : %d\n", inv);
     
     return 0;
+    
 }
