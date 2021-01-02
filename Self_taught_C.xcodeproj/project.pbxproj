@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		BC0DB675259A2F7600016AC9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC0DB674259A2F7600016AC9 /* main.c */; };
+		BC6C306D25A0034F00EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C306C25A0034F00EDE01B /* main.c */; };
+		BC6C309325A0051C00EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C309225A0051C00EDE01B /* main.c */; };
+		BC6C30BA25A00B4300EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C30B925A00B4300EDE01B /* main.c */; };
 		BC854A27259ACF1400388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A26259ACF1400388DA6 /* main.c */; };
 		BC854A34259AD03A00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A33259AD03A00388DA6 /* main.c */; };
 		BC854A42259AD12D00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A41259AD12D00388DA6 /* main.c */; };
@@ -27,6 +30,10 @@
 		BC854BD0259B0FFF00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854BCF259B0FFF00388DA6 /* main.c */; };
 		BC854BED259B113200388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854BEC259B113200388DA6 /* main.c */; };
 		BC854C0B259B163300388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854C0A259B163300388DA6 /* main.c */; };
+		BCB55AC425A01FA9000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55AC325A01FA9000F26FD /* main.c */; };
+		BCB55AED25A02096000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55AEC25A02096000F26FD /* main.c */; };
+		BCB55B1725A021F0000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55B1625A021F0000F26FD /* main.c */; };
+		BCB55B4225A0244D000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55B4125A0244D000F26FD /* main.c */; };
 		BCBBB6BB259CBADB00FDBC88 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBBB6BA259CBADB00FDBC88 /* main.c */; };
 		BCBBB6DB259CBBD300FDBC88 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBBB6DA259CBBD300FDBC88 /* main.c */; };
 		BCBBB712259CBC9000FDBC88 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBBB711259CBC9000FDBC88 /* main.c */; };
@@ -37,6 +44,33 @@
 
 /* Begin PBXCopyFilesBuildPhase section */
 		BC0DB667259A2D0000016AC9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC6C306825A0034F00EDE01B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC6C308E25A0051C00EDE01B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC6C30B525A00B4300EDE01B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -216,6 +250,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		BCB55ABF25A01FA9000F26FD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BCB55AE825A02096000F26FD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BCB55B1225A021F0000F26FD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BCB55B3D25A0244D000F26FD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		BCBBB6B6259CBADB00FDBC88 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -275,6 +345,12 @@
 /* Begin PBXFileReference section */
 		BC0DB669259A2D0000016AC9 /* Self_taught_C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Self_taught_C; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC0DB674259A2F7600016AC9 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC6C306A25A0034F00EDE01B /* 4-8 Shape conversion */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-8 Shape conversion"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC6C306C25A0034F00EDE01B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC6C309025A0051C00EDE01B /* 4-9 Operator sizeof */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-9 Operator sizeof"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC6C309225A0051C00EDE01B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC6C30B725A00B4300EDE01B /* 4-10 Complex entry operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-10 Complex entry operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC6C30B925A00B4300EDE01B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854A24259ACF1400388DA6 /* 2-1 funtion main */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-1 funtion main"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC854A26259ACF1400388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854A31259AD03A00388DA6 /* 2-2 String output */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-2 String output"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -313,6 +389,14 @@
 		BC854BEC259B113200388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854C08259B163300388DA6 /* 4-1 Arithmetic operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-1 Arithmetic operator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC854C0A259B163300388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BCB55AC125A01FA9000F26FD /* 4-11 Comma operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-11 Comma operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCB55AC325A01FA9000F26FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BCB55AEA25A02096000F26FD /* 4-12 Conditional operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-12 Conditional operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCB55AEC25A02096000F26FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BCB55B1425A021F0000F26FD /* 4-13 Bit operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-13 Bit operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCB55B1625A021F0000F26FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BCB55B3F25A0244D000F26FD /* 4-14 Operator priority */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-14 Operator priority"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCB55B4125A0244D000F26FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BCBBB6B8259CBADB00FDBC88 /* 4-2 Devide operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-2 Devide operator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCBBB6BA259CBADB00FDBC88 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BCBBB6D8259CBBD300FDBC88 /* Increment and decrement */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Increment and decrement"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -329,6 +413,27 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		BC0DB666259A2D0000016AC9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C306725A0034F00EDE01B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C308D25A0051C00EDE01B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C30B425A00B4300EDE01B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -468,6 +573,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BCB55ABE25A01FA9000F26FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55AE725A02096000F26FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55B1125A021F0000F26FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55B3C25A0244D000F26FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BCBBB6B5259CBADB00FDBC88 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -542,6 +675,13 @@
 				BCBBB732259CBDC100FDBC88 /* 4-5 Relational operator */,
 				BCBBB755259CBF6900FDBC88 /* 4-6 Logical operator */,
 				BCBBB779259CC18500FDBC88 /* 4-7 Use result */,
+				BC6C306B25A0034F00EDE01B /* 4-8 Shape conversion */,
+				BC6C309125A0051C00EDE01B /* 4-9 Operator sizeof */,
+				BC6C30B825A00B4300EDE01B /* 4-10 Complex entry operator */,
+				BCB55AC225A01FA9000F26FD /* 4-11 Comma operator */,
+				BCB55AEB25A02096000F26FD /* 4-12 Conditional operator */,
+				BCB55B1525A021F0000F26FD /* 4-13 Bit operator */,
+				BCB55B4025A0244D000F26FD /* 4-14 Operator priority */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -575,6 +715,13 @@
 				BCBBB731259CBDC100FDBC88 /* 4-5 Relational operator */,
 				BCBBB754259CBF6900FDBC88 /* 4-6 Logical operator */,
 				BCBBB778259CC18500FDBC88 /* 4-7 Use result */,
+				BC6C306A25A0034F00EDE01B /* 4-8 Shape conversion */,
+				BC6C309025A0051C00EDE01B /* 4-9 Operator sizeof */,
+				BC6C30B725A00B4300EDE01B /* 4-10 Complex entry operator */,
+				BCB55AC125A01FA9000F26FD /* 4-11 Comma operator */,
+				BCB55AEA25A02096000F26FD /* 4-12 Conditional operator */,
+				BCB55B1425A021F0000F26FD /* 4-13 Bit operator */,
+				BCB55B3F25A0244D000F26FD /* 4-14 Operator priority */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -585,6 +732,30 @@
 				BC0DB674259A2F7600016AC9 /* main.c */,
 			);
 			path = "1-2 Creat new project";
+			sourceTree = "<group>";
+		};
+		BC6C306B25A0034F00EDE01B /* 4-8 Shape conversion */ = {
+			isa = PBXGroup;
+			children = (
+				BC6C306C25A0034F00EDE01B /* main.c */,
+			);
+			path = "4-8 Shape conversion";
+			sourceTree = "<group>";
+		};
+		BC6C309125A0051C00EDE01B /* 4-9 Operator sizeof */ = {
+			isa = PBXGroup;
+			children = (
+				BC6C309225A0051C00EDE01B /* main.c */,
+			);
+			path = "4-9 Operator sizeof";
+			sourceTree = "<group>";
+		};
+		BC6C30B825A00B4300EDE01B /* 4-10 Complex entry operator */ = {
+			isa = PBXGroup;
+			children = (
+				BC6C30B925A00B4300EDE01B /* main.c */,
+			);
+			path = "4-10 Complex entry operator";
 			sourceTree = "<group>";
 		};
 		BC854A25259ACF1400388DA6 /* 2-1 funtion main */ = {
@@ -739,6 +910,38 @@
 			path = "4-1 Arithmetic operator";
 			sourceTree = "<group>";
 		};
+		BCB55AC225A01FA9000F26FD /* 4-11 Comma operator */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55AC325A01FA9000F26FD /* main.c */,
+			);
+			path = "4-11 Comma operator";
+			sourceTree = "<group>";
+		};
+		BCB55AEB25A02096000F26FD /* 4-12 Conditional operator */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55AEC25A02096000F26FD /* main.c */,
+			);
+			path = "4-12 Conditional operator";
+			sourceTree = "<group>";
+		};
+		BCB55B1525A021F0000F26FD /* 4-13 Bit operator */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55B1625A021F0000F26FD /* main.c */,
+			);
+			path = "4-13 Bit operator";
+			sourceTree = "<group>";
+		};
+		BCB55B4025A0244D000F26FD /* 4-14 Operator priority */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55B4125A0244D000F26FD /* main.c */,
+			);
+			path = "4-14 Operator priority";
+			sourceTree = "<group>";
+		};
 		BCBBB6B9259CBADB00FDBC88 /* 4-2 Devide operator */ = {
 			isa = PBXGroup;
 			children = (
@@ -805,6 +1008,57 @@
 			name = Self_taught_C;
 			productName = Self_taught_C;
 			productReference = BC0DB669259A2D0000016AC9 /* Self_taught_C */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC6C306925A0034F00EDE01B /* 4-8 Shape conversion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC6C307025A0035000EDE01B /* Build configuration list for PBXNativeTarget "4-8 Shape conversion" */;
+			buildPhases = (
+				BC6C306625A0034F00EDE01B /* Sources */,
+				BC6C306725A0034F00EDE01B /* Frameworks */,
+				BC6C306825A0034F00EDE01B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-8 Shape conversion";
+			productName = "4-8 Shape conversion";
+			productReference = BC6C306A25A0034F00EDE01B /* 4-8 Shape conversion */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC6C308F25A0051C00EDE01B /* 4-9 Operator sizeof */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC6C309425A0051C00EDE01B /* Build configuration list for PBXNativeTarget "4-9 Operator sizeof" */;
+			buildPhases = (
+				BC6C308C25A0051C00EDE01B /* Sources */,
+				BC6C308D25A0051C00EDE01B /* Frameworks */,
+				BC6C308E25A0051C00EDE01B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-9 Operator sizeof";
+			productName = "4-9 Operator sizeof";
+			productReference = BC6C309025A0051C00EDE01B /* 4-9 Operator sizeof */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC6C30B625A00B4300EDE01B /* 4-10 Complex entry operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC6C30BB25A00B4300EDE01B /* Build configuration list for PBXNativeTarget "4-10 Complex entry operator" */;
+			buildPhases = (
+				BC6C30B325A00B4300EDE01B /* Sources */,
+				BC6C30B425A00B4300EDE01B /* Frameworks */,
+				BC6C30B525A00B4300EDE01B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-10 Complex entry operator";
+			productName = "4-10 Complex entry operator";
+			productReference = BC6C30B725A00B4300EDE01B /* 4-10 Complex entry operator */;
 			productType = "com.apple.product-type.tool";
 		};
 		BC854A23259ACF1400388DA6 /* 2-1 funtion main */ = {
@@ -1130,6 +1384,74 @@
 			productReference = BC854C08259B163300388DA6 /* 4-1 Arithmetic operator */;
 			productType = "com.apple.product-type.tool";
 		};
+		BCB55AC025A01FA9000F26FD /* 4-11 Comma operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCB55AC725A01FA9000F26FD /* Build configuration list for PBXNativeTarget "4-11 Comma operator" */;
+			buildPhases = (
+				BCB55ABD25A01FA9000F26FD /* Sources */,
+				BCB55ABE25A01FA9000F26FD /* Frameworks */,
+				BCB55ABF25A01FA9000F26FD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-11 Comma operator";
+			productName = "4-11 Comma operator";
+			productReference = BCB55AC125A01FA9000F26FD /* 4-11 Comma operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		BCB55AE925A02096000F26FD /* 4-12 Conditional operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCB55AEE25A02096000F26FD /* Build configuration list for PBXNativeTarget "4-12 Conditional operator" */;
+			buildPhases = (
+				BCB55AE625A02096000F26FD /* Sources */,
+				BCB55AE725A02096000F26FD /* Frameworks */,
+				BCB55AE825A02096000F26FD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-12 Conditional operator";
+			productName = "4-12 Conditional operator";
+			productReference = BCB55AEA25A02096000F26FD /* 4-12 Conditional operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		BCB55B1325A021F0000F26FD /* 4-13 Bit operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCB55B1825A021F0000F26FD /* Build configuration list for PBXNativeTarget "4-13 Bit operator" */;
+			buildPhases = (
+				BCB55B1025A021F0000F26FD /* Sources */,
+				BCB55B1125A021F0000F26FD /* Frameworks */,
+				BCB55B1225A021F0000F26FD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-13 Bit operator";
+			productName = "4-13 Bit operator";
+			productReference = BCB55B1425A021F0000F26FD /* 4-13 Bit operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		BCB55B3E25A0244D000F26FD /* 4-14 Operator priority */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCB55B4325A0244D000F26FD /* Build configuration list for PBXNativeTarget "4-14 Operator priority" */;
+			buildPhases = (
+				BCB55B3B25A0244D000F26FD /* Sources */,
+				BCB55B3C25A0244D000F26FD /* Frameworks */,
+				BCB55B3D25A0244D000F26FD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4-14 Operator priority";
+			productName = "4-14 Operator priority";
+			productReference = BCB55B3F25A0244D000F26FD /* 4-14 Operator priority */;
+			productType = "com.apple.product-type.tool";
+		};
 		BCBBB6B7259CBADB00FDBC88 /* 4-2 Devide operator */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BCBBB6BE259CBADB00FDBC88 /* Build configuration list for PBXNativeTarget "4-2 Devide operator" */;
@@ -1243,6 +1565,15 @@
 					BC0DB668259A2D0000016AC9 = {
 						CreatedOnToolsVersion = 12.2;
 					};
+					BC6C306925A0034F00EDE01B = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					BC6C308F25A0051C00EDE01B = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					BC6C30B625A00B4300EDE01B = {
+						CreatedOnToolsVersion = 12.2;
+					};
 					BC854A23259ACF1400388DA6 = {
 						CreatedOnToolsVersion = 12.2;
 					};
@@ -1299,6 +1630,18 @@
 					};
 					BC854C07259B163300388DA6 = {
 						CreatedOnToolsVersion = 12.2;
+					};
+					BCB55AC025A01FA9000F26FD = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BCB55AE925A02096000F26FD = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BCB55B1325A021F0000F26FD = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BCB55B3E25A0244D000F26FD = {
+						CreatedOnToolsVersion = 12.3;
 					};
 					BCBBB6B7259CBADB00FDBC88 = {
 						CreatedOnToolsVersion = 12.2;
@@ -1359,6 +1702,13 @@
 				BCBBB730259CBDC100FDBC88 /* 4-5 Relational operator */,
 				BCBBB753259CBF6900FDBC88 /* 4-6 Logical operator */,
 				BCBBB777259CC18500FDBC88 /* 4-7 Use result */,
+				BC6C306925A0034F00EDE01B /* 4-8 Shape conversion */,
+				BC6C308F25A0051C00EDE01B /* 4-9 Operator sizeof */,
+				BC6C30B625A00B4300EDE01B /* 4-10 Complex entry operator */,
+				BCB55AC025A01FA9000F26FD /* 4-11 Comma operator */,
+				BCB55AE925A02096000F26FD /* 4-12 Conditional operator */,
+				BCB55B1325A021F0000F26FD /* 4-13 Bit operator */,
+				BCB55B3E25A0244D000F26FD /* 4-14 Operator priority */,
 			);
 		};
 /* End PBXProject section */
@@ -1369,6 +1719,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC0DB675259A2F7600016AC9 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C306625A0034F00EDE01B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC6C306D25A0034F00EDE01B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C308C25A0051C00EDE01B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC6C309325A0051C00EDE01B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC6C30B325A00B4300EDE01B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC6C30BA25A00B4300EDE01B /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1521,6 +1895,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC854C0B259B163300388DA6 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55ABD25A01FA9000F26FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCB55AC425A01FA9000F26FD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55AE625A02096000F26FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCB55AED25A02096000F26FD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55B1025A021F0000F26FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCB55B1725A021F0000F26FD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCB55B3B25A0244D000F26FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCB55B4225A0244D000F26FD /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1697,6 +2103,66 @@
 			name = Debug;
 		};
 		BC0DB672259A2D0000016AC9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC6C306E25A0035000EDE01B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC6C306F25A0035000EDE01B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC6C309525A0051C00EDE01B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC6C309625A0051C00EDE01B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC6C30BC25A00B4300EDE01B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC6C30BD25A00B4300EDE01B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -2086,6 +2552,94 @@
 			};
 			name = Release;
 		};
+		BCB55AC525A01FA9000F26FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BCB55AC625A01FA9000F26FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BCB55AEF25A02096000F26FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BCB55AF025A02096000F26FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BCB55B1925A021F0000F26FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BCB55B1A25A021F0000F26FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BCB55B4425A0244D000F26FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BCB55B4525A0244D000F26FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		BCBBB6BC259CBADB00FDBC88 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -2223,6 +2777,33 @@
 			buildConfigurations = (
 				BC0DB671259A2D0000016AC9 /* Debug */,
 				BC0DB672259A2D0000016AC9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC6C307025A0035000EDE01B /* Build configuration list for PBXNativeTarget "4-8 Shape conversion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC6C306E25A0035000EDE01B /* Debug */,
+				BC6C306F25A0035000EDE01B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC6C309425A0051C00EDE01B /* Build configuration list for PBXNativeTarget "4-9 Operator sizeof" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC6C309525A0051C00EDE01B /* Debug */,
+				BC6C309625A0051C00EDE01B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC6C30BB25A00B4300EDE01B /* Build configuration list for PBXNativeTarget "4-10 Complex entry operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC6C30BC25A00B4300EDE01B /* Debug */,
+				BC6C30BD25A00B4300EDE01B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2394,6 +2975,42 @@
 			buildConfigurations = (
 				BC854C0D259B163300388DA6 /* Debug */,
 				BC854C0E259B163300388DA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCB55AC725A01FA9000F26FD /* Build configuration list for PBXNativeTarget "4-11 Comma operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCB55AC525A01FA9000F26FD /* Debug */,
+				BCB55AC625A01FA9000F26FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCB55AEE25A02096000F26FD /* Build configuration list for PBXNativeTarget "4-12 Conditional operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCB55AEF25A02096000F26FD /* Debug */,
+				BCB55AF025A02096000F26FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCB55B1825A021F0000F26FD /* Build configuration list for PBXNativeTarget "4-13 Bit operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCB55B1925A021F0000F26FD /* Debug */,
+				BCB55B1A25A021F0000F26FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCB55B4325A0244D000F26FD /* Build configuration list for PBXNativeTarget "4-14 Operator priority" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCB55B4425A0244D000F26FD /* Debug */,
+				BCB55B4525A0244D000F26FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
