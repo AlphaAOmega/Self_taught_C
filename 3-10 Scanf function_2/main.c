@@ -1,6 +1,6 @@
 //
 //  main.c
-//  3-10 Scanf funtion_2
+//  3-10 Scanf function_2
 //
 //  Created by 하동훈 on 2020/12/29.
 //
