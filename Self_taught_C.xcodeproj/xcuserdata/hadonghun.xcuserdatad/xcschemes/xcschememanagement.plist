@@ -204,6 +204,31 @@
 			<key>orderHint</key>
 			<integer>55</integer>
 		</dict>
+		<key>7-2 function without parameter.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>57</integer>
+		</dict>
+		<key>7-3 function without return.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>58</integer>
+		</dict>
+		<key>7-4 function without both.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>59</integer>
+		</dict>
+		<key>7-5 Recursive function.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>60</integer>
+		</dict>
+		<key>7-6 Recursive function_2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>61</integer>
+		</dict>
 		<key>Copy str to char array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -273,6 +298,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>56</integer>
+		</dict>
+		<key>Question 7-5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>62</integer>
+		</dict>
+		<key>Question 7-7.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>63</integer>
 		</dict>
 		<key>Self_taught_C.xcscheme_^#shared#^_</key>
 		<dict>
