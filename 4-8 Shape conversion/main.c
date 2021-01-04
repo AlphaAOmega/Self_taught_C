@@ -18,5 +18,6 @@ int main(void)
     
     a = (int)res;
     printf("(int) %.1lf의 결과 : %d\n", res, a);
+    
     return 0;
 }
