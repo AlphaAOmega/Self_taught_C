@@ -39,6 +39,41 @@
 			<key>orderHint</key>
 			<integer>89</integer>
 		</dict>
+		<key>11-1 small to capital.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>11-2 scanf char.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
+		<key>11-3 getchar putchar.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>94</integer>
+		</dict>
+		<key>11-4 buffer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>95</integer>
+		</dict>
+		<key>11-5 char ascii code.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>96</integer>
+		</dict>
+		<key>11-6 getchar.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>97</integer>
+		</dict>
+		<key>11-7 empty buffer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>98</integer>
+		</dict>
 		<key>2-1 funtion main.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -353,6 +388,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>90</integer>
+		</dict>
+		<key>Question 10-6.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>91</integer>
 		</dict>
 		<key>Question 4-3.xcscheme_^#shared#^_</key>
 		<dict>
