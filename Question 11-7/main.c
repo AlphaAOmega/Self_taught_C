@@ -8,10 +8,12 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    char ch = 0;
-    int res, cnt = 0, temp = 0, i = 0;
+    char ch;
+    int res, cnt = 0, temp, i = 0;
     
     while (i != 1) {
+        ch = 0;
+        temp = 0;
         while (ch != '\n') {
             res = scanf("%c", &ch);
             if (res == EOF) {
@@ -21,8 +23,6 @@ int main(int argc, const char * argv[]) {
             temp++;
         }
         if (cnt < temp) cnt = temp;
-        ch = 0;
-        temp = 0;
     }
     
     printf("제일 긴 단어의 길이 : %d\n", cnt - 1);
