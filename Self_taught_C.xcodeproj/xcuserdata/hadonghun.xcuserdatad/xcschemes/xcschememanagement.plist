@@ -159,6 +159,46 @@
 			<key>orderHint</key>
 			<integer>109</integer>
 		</dict>
+		<key>13-6 share data with other func.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>120</integer>
+		</dict>
+		<key>13-7 share data with other func_2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>121</integer>
+		</dict>
+		<key>13-8 return address.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>122</integer>
+		</dict>
+		<key>14-1 2d array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>124</integer>
+		</dict>
+		<key>14-2 initailize 2d array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>125</integer>
+		</dict>
+		<key>14-3 char 2d array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>126</integer>
+		</dict>
+		<key>14-4 initialize char 2d array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>127</integer>
+		</dict>
+		<key>14-5 3d array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>128</integer>
+		</dict>
 		<key>2-1 funtion main.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -498,6 +538,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>43</integer>
+		</dict>
+		<key>Question 13-7.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>123</integer>
 		</dict>
 		<key>Question 4-3.xcscheme_^#shared#^_</key>
 		<dict>
