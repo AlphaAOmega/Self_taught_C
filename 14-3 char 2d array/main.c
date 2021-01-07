@@ -6,6 +6,7 @@
 //
 
 #include <stdio.h>
+#include <string.h>
 
 int main(int argc, const char * argv[]) {
     char animal[5][20];
@@ -17,6 +18,10 @@ int main(int argc, const char * argv[]) {
     for (i = 0; i < count; i++) scanf("%s", animal[i]);
 
     for (i = 0; i < count; i++) printf("%s ", animal[i]);
+    
+    printf("\n");
+    strcpy(animal[0], animal[1]);
+    printf("%s\n", animal[0]);
 
     return 0;
 }
