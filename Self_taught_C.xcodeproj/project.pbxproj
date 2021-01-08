@@ -77,6 +77,7 @@
 		BC6C850C25A73A7700875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C850B25A73A7700875043 /* main.c */; };
 		BC6C85A125A73C8200875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C85A025A73C8200875043 /* main.c */; };
 		BC6C863725A7454C00875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C863625A7454C00875043 /* main.c */; };
+		BC6C86CE25A74AAD00875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C86CD25A74AAD00875043 /* main.c */; };
 		BC71C63125A6CAB7000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C63025A6CAB7000230C6 /* main.c */; };
 		BC71C6BE25A6D3A4000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C6BD25A6D3A4000230C6 /* main.c */; };
 		BC71C74C25A6DAF2000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C74B25A6DAF2000230C6 /* main.c */; };
@@ -99,6 +100,9 @@
 		BC854BD0259B0FFF00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854BCF259B0FFF00388DA6 /* main.c */; };
 		BC854BED259B113200388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854BEC259B113200388DA6 /* main.c */; };
 		BC854C0B259B163300388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854C0A259B163300388DA6 /* main.c */; };
+		BC8D9BD025A8A03400764E04 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC8D9BCF25A8A03400764E04 /* main.c */; };
+		BC8D9C6925A8A33600764E04 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC8D9C6825A8A33600764E04 /* main.c */; };
+		BC8D9D0325A8A53300764E04 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC8D9D0225A8A53300764E04 /* main.c */; };
 		BCB55AC425A01FA9000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55AC325A01FA9000F26FD /* main.c */; };
 		BCB55AED25A02096000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55AEC25A02096000F26FD /* main.c */; };
 		BCB55B1725A021F0000F26FD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BCB55B1625A021F0000F26FD /* main.c */; };
@@ -780,6 +784,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		BC6C86C925A74AAD00875043 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		BC71C62C25A6CAB7000230C6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -970,6 +983,33 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		BC854C06259B163300388DA6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC8D9BCB25A8A03400764E04 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC8D9C6425A8A33600764E04 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC8D9CFE25A8A53300764E04 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1553,6 +1593,8 @@
 		BC6C85A025A73C8200875043 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC6C863425A7454C00875043 /* 15-9 void pointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "15-9 void pointer"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC6C863625A7454C00875043 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC6C86CB25A74AAD00875043 /* Question 15-7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Question 15-7"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC6C86CD25A74AAD00875043 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC71C62E25A6CAB7000230C6 /* 14-6 pointer array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14-6 pointer array"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC71C63025A6CAB7000230C6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC71C6BB25A6D3A4000230C6 /* 14-7 pointer array_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14-7 pointer array_2"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1597,6 +1639,12 @@
 		BC854BEC259B113200388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854C08259B163300388DA6 /* 4-1 Arithmetic operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-1 Arithmetic operator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC854C0A259B163300388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC8D9BCD25A8A03400764E04 /* 16-1 function malloc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16-1 function malloc"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8D9BCF25A8A03400764E04 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC8D9C6625A8A33600764E04 /* 16-2 function malloc_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16-2 function malloc_2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8D9C6825A8A33600764E04 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC8D9D0025A8A53300764E04 /* 16-3 functino calloc and realloc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16-3 functino calloc and realloc"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8D9D0225A8A53300764E04 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BCB55AC125A01FA9000F26FD /* 4-11 Comma operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-11 Comma operator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCB55AC325A01FA9000F26FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BCB55AEA25A02096000F26FD /* 4-12 Conditional operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-12 Conditional operator"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2186,6 +2234,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BC6C86C825A74AAD00875043 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BC71C62B25A6CAB7000230C6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -2334,6 +2389,27 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		BC854C05259B163300388DA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9BCA25A8A03400764E04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9C6325A8A33600764E04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9CFD25A8A53300764E04 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2822,6 +2898,10 @@
 				BC6C850A25A73A7600875043 /* 15-7 function pointer */,
 				BC6C859F25A73C8200875043 /* 15-8 function pointer_2 */,
 				BC6C863525A7454C00875043 /* 15-9 void pointer */,
+				BC6C86CC25A74AAD00875043 /* Question 15-7 */,
+				BC8D9BCE25A8A03400764E04 /* 16-1 function malloc */,
+				BC8D9C6725A8A33600764E04 /* 16-2 function malloc_2 */,
+				BC8D9D0125A8A53300764E04 /* 16-3 functino calloc and realloc */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -2969,6 +3049,10 @@
 				BC6C850925A73A7600875043 /* 15-7 function pointer */,
 				BC6C859E25A73C8200875043 /* 15-8 function pointer_2 */,
 				BC6C863425A7454C00875043 /* 15-9 void pointer */,
+				BC6C86CB25A74AAD00875043 /* Question 15-7 */,
+				BC8D9BCD25A8A03400764E04 /* 16-1 function malloc */,
+				BC8D9C6625A8A33600764E04 /* 16-2 function malloc_2 */,
+				BC8D9D0025A8A53300764E04 /* 16-3 functino calloc and realloc */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -3533,6 +3617,14 @@
 			path = "15-9 void pointer";
 			sourceTree = "<group>";
 		};
+		BC6C86CC25A74AAD00875043 /* Question 15-7 */ = {
+			isa = PBXGroup;
+			children = (
+				BC6C86CD25A74AAD00875043 /* main.c */,
+			);
+			path = "Question 15-7";
+			sourceTree = "<group>";
+		};
 		BC71C62F25A6CAB7000230C6 /* 14-6 pointer array */ = {
 			isa = PBXGroup;
 			children = (
@@ -3707,6 +3799,30 @@
 				BC854C0A259B163300388DA6 /* main.c */,
 			);
 			path = "4-1 Arithmetic operator";
+			sourceTree = "<group>";
+		};
+		BC8D9BCE25A8A03400764E04 /* 16-1 function malloc */ = {
+			isa = PBXGroup;
+			children = (
+				BC8D9BCF25A8A03400764E04 /* main.c */,
+			);
+			path = "16-1 function malloc";
+			sourceTree = "<group>";
+		};
+		BC8D9C6725A8A33600764E04 /* 16-2 function malloc_2 */ = {
+			isa = PBXGroup;
+			children = (
+				BC8D9C6825A8A33600764E04 /* main.c */,
+			);
+			path = "16-2 function malloc_2";
+			sourceTree = "<group>";
+		};
+		BC8D9D0125A8A53300764E04 /* 16-3 functino calloc and realloc */ = {
+			isa = PBXGroup;
+			children = (
+				BC8D9D0225A8A53300764E04 /* main.c */,
+			);
+			path = "16-3 functino calloc and realloc";
 			sourceTree = "<group>";
 		};
 		BCB55AC225A01FA9000F26FD /* 4-11 Comma operator */ = {
@@ -5286,6 +5402,23 @@
 			productReference = BC6C863425A7454C00875043 /* 15-9 void pointer */;
 			productType = "com.apple.product-type.tool";
 		};
+		BC6C86CA25A74AAD00875043 /* Question 15-7 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC6C86CF25A74AAD00875043 /* Build configuration list for PBXNativeTarget "Question 15-7" */;
+			buildPhases = (
+				BC6C86C725A74AAD00875043 /* Sources */,
+				BC6C86C825A74AAD00875043 /* Frameworks */,
+				BC6C86C925A74AAD00875043 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Question 15-7";
+			productName = "Question 15-7";
+			productReference = BC6C86CB25A74AAD00875043 /* Question 15-7 */;
+			productType = "com.apple.product-type.tool";
+		};
 		BC71C62D25A6CAB7000230C6 /* 14-6 pointer array */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BC71C63425A6CAB7000230C6 /* Build configuration list for PBXNativeTarget "14-6 pointer array" */;
@@ -5658,6 +5791,57 @@
 			name = "4-1 Arithmetic operator";
 			productName = "4-1 Arithmetic operator";
 			productReference = BC854C08259B163300388DA6 /* 4-1 Arithmetic operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC8D9BCC25A8A03400764E04 /* 16-1 function malloc */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC8D9BD325A8A03400764E04 /* Build configuration list for PBXNativeTarget "16-1 function malloc" */;
+			buildPhases = (
+				BC8D9BC925A8A03400764E04 /* Sources */,
+				BC8D9BCA25A8A03400764E04 /* Frameworks */,
+				BC8D9BCB25A8A03400764E04 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "16-1 function malloc";
+			productName = "16-1 function malloc";
+			productReference = BC8D9BCD25A8A03400764E04 /* 16-1 function malloc */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC8D9C6525A8A33600764E04 /* 16-2 function malloc_2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC8D9C6A25A8A33600764E04 /* Build configuration list for PBXNativeTarget "16-2 function malloc_2" */;
+			buildPhases = (
+				BC8D9C6225A8A33600764E04 /* Sources */,
+				BC8D9C6325A8A33600764E04 /* Frameworks */,
+				BC8D9C6425A8A33600764E04 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "16-2 function malloc_2";
+			productName = "16-2 function malloc_2";
+			productReference = BC8D9C6625A8A33600764E04 /* 16-2 function malloc_2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC8D9CFF25A8A53300764E04 /* 16-3 functino calloc and realloc */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC8D9D0425A8A53300764E04 /* Build configuration list for PBXNativeTarget "16-3 functino calloc and realloc" */;
+			buildPhases = (
+				BC8D9CFC25A8A53300764E04 /* Sources */,
+				BC8D9CFD25A8A53300764E04 /* Frameworks */,
+				BC8D9CFE25A8A53300764E04 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "16-3 functino calloc and realloc";
+			productName = "16-3 functino calloc and realloc";
+			productReference = BC8D9D0025A8A53300764E04 /* 16-3 functino calloc and realloc */;
 			productType = "com.apple.product-type.tool";
 		};
 		BCB55AC025A01FA9000F26FD /* 4-11 Comma operator */ = {
@@ -6695,6 +6879,9 @@
 					BC6C863325A7454C00875043 = {
 						CreatedOnToolsVersion = 12.3;
 					};
+					BC6C86CA25A74AAD00875043 = {
+						CreatedOnToolsVersion = 12.3;
+					};
 					BC71C62D25A6CAB7000230C6 = {
 						CreatedOnToolsVersion = 12.3;
 					};
@@ -6760,6 +6947,15 @@
 					};
 					BC854C07259B163300388DA6 = {
 						CreatedOnToolsVersion = 12.2;
+					};
+					BC8D9BCC25A8A03400764E04 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC8D9C6525A8A33600764E04 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC8D9CFF25A8A53300764E04 = {
+						CreatedOnToolsVersion = 12.3;
 					};
 					BCB55AC025A01FA9000F26FD = {
 						CreatedOnToolsVersion = 12.3;
@@ -7060,6 +7256,10 @@
 				BC6C850825A73A7600875043 /* 15-7 function pointer */,
 				BC6C859D25A73C8200875043 /* 15-8 function pointer_2 */,
 				BC6C863325A7454C00875043 /* 15-9 void pointer */,
+				BC6C86CA25A74AAD00875043 /* Question 15-7 */,
+				BC8D9BCC25A8A03400764E04 /* 16-1 function malloc */,
+				BC8D9C6525A8A33600764E04 /* 16-2 function malloc_2 */,
+				BC8D9CFF25A8A53300764E04 /* 16-3 functino calloc and realloc */,
 			);
 		};
 /* End PBXProject section */
@@ -7625,6 +7825,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BC6C86C725A74AAD00875043 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC6C86CE25A74AAD00875043 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BC71C62A25A6CAB7000230C6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -7798,6 +8006,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC854C0B259B163300388DA6 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9BC925A8A03400764E04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC8D9BD025A8A03400764E04 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9C6225A8A33600764E04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC8D9C6925A8A33600764E04 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8D9CFC25A8A53300764E04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC8D9D0325A8A53300764E04 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -9839,6 +10071,28 @@
 			};
 			name = Release;
 		};
+		BC6C86D025A74AAD00875043 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC6C86D125A74AAD00875043 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		BC71C63225A6CAB7000230C6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -10319,6 +10573,72 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UL264WB4Z5;
 				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC8D9BD125A8A03400764E04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC8D9BD225A8A03400764E04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC8D9C6B25A8A33600764E04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC8D9C6C25A8A33600764E04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC8D9D0525A8A53300764E04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC8D9D0625A8A53300764E04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -12083,6 +12403,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		BC6C86CF25A74AAD00875043 /* Build configuration list for PBXNativeTarget "Question 15-7" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC6C86D025A74AAD00875043 /* Debug */,
+				BC6C86D125A74AAD00875043 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		BC71C63425A6CAB7000230C6 /* Build configuration list for PBXNativeTarget "14-6 pointer array" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -12277,6 +12606,33 @@
 			buildConfigurations = (
 				BC854C0D259B163300388DA6 /* Debug */,
 				BC854C0E259B163300388DA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC8D9BD325A8A03400764E04 /* Build configuration list for PBXNativeTarget "16-1 function malloc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC8D9BD125A8A03400764E04 /* Debug */,
+				BC8D9BD225A8A03400764E04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC8D9C6A25A8A33600764E04 /* Build configuration list for PBXNativeTarget "16-2 function malloc_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC8D9C6B25A8A33600764E04 /* Debug */,
+				BC8D9C6C25A8A33600764E04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC8D9D0425A8A53300764E04 /* Build configuration list for PBXNativeTarget "16-3 functino calloc and realloc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC8D9D0525A8A53300764E04 /* Debug */,
+				BC8D9D0625A8A53300764E04 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
