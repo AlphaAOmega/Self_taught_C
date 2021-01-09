@@ -286,6 +286,16 @@
 			<key>orderHint</key>
 			<integer>148</integer>
 		</dict>
+		<key>17-10 union.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>158</integer>
+		</dict>
+		<key>17-11 enum.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>159</integer>
+		</dict>
 		<key>17-2 struct members.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -295,6 +305,36 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>150</integer>
+		</dict>
+		<key>17-4 initailize a struct.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>151</integer>
+		</dict>
+		<key>17-5 return struct.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>152</integer>
+		</dict>
+		<key>17-6 struct pointer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>154</integer>
+		</dict>
+		<key>17-7 struct array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>155</integer>
+		</dict>
+		<key>17-8 struct array_2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>156</integer>
+		</dict>
+		<key>17-9 self reference structure.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>157</integer>
 		</dict>
 		<key>2-1 funtion main.xcscheme_^#shared#^_</key>
 		<dict>
@@ -655,6 +695,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>89</integer>
+		</dict>
+		<key>Question 17-2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>153</integer>
 		</dict>
 		<key>Question 4-3.xcscheme_^#shared#^_</key>
 		<dict>

@@ -70,6 +70,15 @@
 		BC5ACBEB25A9731500340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACBEA25A9731500340066 /* main.c */; };
 		BC5ACC8B25A9758000340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACC8A25A9758000340066 /* main.c */; };
 		BC5ACD2C25A97DAE00340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACD2B25A97DAE00340066 /* main.c */; };
+		BC5ACDCE25A98A6000340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACDCD25A98A6000340066 /* main.c */; };
+		BC5ACE7125A997FF00340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACE7025A997FF00340066 /* main.c */; };
+		BC5ACF1525A99C8300340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACF1425A99C8300340066 /* main.c */; };
+		BC5ACFBA25A99E7400340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5ACFB925A99E7400340066 /* main.c */; };
+		BC5AD06025A9A23900340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5AD05F25A9A23900340066 /* main.c */; };
+		BC5AD10725A9A5F600340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5AD10625A9A5F600340066 /* main.c */; };
+		BC5AD1AF25A9A8C100340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5AD1AE25A9A8C100340066 /* main.c */; };
+		BC5AD25825A9FC3B00340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5AD25725A9FC3B00340066 /* main.c */; };
+		BC5AD30225A9FDDA00340066 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC5AD30125A9FDDA00340066 /* main.c */; };
 		BC6C306D25A0034F00EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C306C25A0034F00EDE01B /* main.c */; };
 		BC6C309325A0051C00EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C309225A0051C00EDE01B /* main.c */; };
 		BC6C30BA25A00B4300EDE01B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C30B925A00B4300EDE01B /* main.c */; };
@@ -720,6 +729,87 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		BC5ACD2725A97DAE00340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5ACDC925A98A6000340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5ACE6C25A997FF00340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5ACF1025A99C8300340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5ACFB525A99E7400340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5AD05B25A9A23900340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5AD10225A9A5F600340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5AD1AA25A9A8C100340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5AD25325A9FC3B00340066 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC5AD2FD25A9FDDA00340066 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1649,6 +1739,24 @@
 		BC5ACC8A25A9758000340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC5ACD2925A97DAE00340066 /* 17-3 struct member of struct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-3 struct member of struct"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC5ACD2B25A97DAE00340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5ACDCB25A98A6000340066 /* 17-4 initailize a struct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-4 initailize a struct"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5ACDCD25A98A6000340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5ACE6E25A997FF00340066 /* 17-5 return struct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-5 return struct"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5ACE7025A997FF00340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5ACF1225A99C8300340066 /* Question 17-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Question 17-2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5ACF1425A99C8300340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5ACFB725A99E7400340066 /* 17-6 struct pointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-6 struct pointer"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5ACFB925A99E7400340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5AD05D25A9A23900340066 /* 17-7 struct array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-7 struct array"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5AD05F25A9A23900340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5AD10425A9A5F600340066 /* 17-8 struct array_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-8 struct array_2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5AD10625A9A5F600340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5AD1AC25A9A8C100340066 /* 17-9 self reference structure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-9 self reference structure"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5AD1AE25A9A8C100340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5AD25525A9FC3B00340066 /* 17-10 union */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-10 union"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5AD25725A9FC3B00340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC5AD2FF25A9FDDA00340066 /* 17-11 enum */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-11 enum"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC5AD30125A9FDDA00340066 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC6C306A25A0034F00EDE01B /* 4-8 Shape conversion */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-8 Shape conversion"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC6C306C25A0034F00EDE01B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC6C309025A0051C00EDE01B /* 4-9 Operator sizeof */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-9 Operator sizeof"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2263,6 +2371,69 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		BC5ACD2625A97DAE00340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACDC825A98A6000340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACE6B25A997FF00340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACF0F25A99C8300340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACFB425A99E7400340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD05A25A9A23900340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD10125A9A5F600340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD1A925A9A8C100340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD25225A9FC3B00340066 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD2FC25A9FDDA00340066 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -3042,6 +3213,15 @@
 				BC5ACBE925A9731500340066 /* 17-1 struct */,
 				BC5ACC8925A9758000340066 /* 17-2 struct members */,
 				BC5ACD2A25A97DAE00340066 /* 17-3 struct member of struct */,
+				BC5ACDCC25A98A6000340066 /* 17-4 initailize a struct */,
+				BC5ACE6F25A997FF00340066 /* 17-5 return struct */,
+				BC5ACF1325A99C8300340066 /* Question 17-2 */,
+				BC5ACFB825A99E7400340066 /* 17-6 struct pointer */,
+				BC5AD05E25A9A23900340066 /* 17-7 struct array */,
+				BC5AD10525A9A5F600340066 /* 17-8 struct array_2 */,
+				BC5AD1AD25A9A8C100340066 /* 17-9 self reference structure */,
+				BC5AD25625A9FC3B00340066 /* 17-10 union */,
+				BC5AD30025A9FDDA00340066 /* 17-11 enum */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -3200,6 +3380,15 @@
 				BC5ACBE825A9731500340066 /* 17-1 struct */,
 				BC5ACC8825A9758000340066 /* 17-2 struct members */,
 				BC5ACD2925A97DAE00340066 /* 17-3 struct member of struct */,
+				BC5ACDCB25A98A6000340066 /* 17-4 initailize a struct */,
+				BC5ACE6E25A997FF00340066 /* 17-5 return struct */,
+				BC5ACF1225A99C8300340066 /* Question 17-2 */,
+				BC5ACFB725A99E7400340066 /* 17-6 struct pointer */,
+				BC5AD05D25A9A23900340066 /* 17-7 struct array */,
+				BC5AD10425A9A5F600340066 /* 17-8 struct array_2 */,
+				BC5AD1AC25A9A8C100340066 /* 17-9 self reference structure */,
+				BC5AD25525A9FC3B00340066 /* 17-10 union */,
+				BC5AD2FF25A9FDDA00340066 /* 17-11 enum */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -3706,6 +3895,78 @@
 				BC5ACD2B25A97DAE00340066 /* main.c */,
 			);
 			path = "17-3 struct member of struct";
+			sourceTree = "<group>";
+		};
+		BC5ACDCC25A98A6000340066 /* 17-4 initailize a struct */ = {
+			isa = PBXGroup;
+			children = (
+				BC5ACDCD25A98A6000340066 /* main.c */,
+			);
+			path = "17-4 initailize a struct";
+			sourceTree = "<group>";
+		};
+		BC5ACE6F25A997FF00340066 /* 17-5 return struct */ = {
+			isa = PBXGroup;
+			children = (
+				BC5ACE7025A997FF00340066 /* main.c */,
+			);
+			path = "17-5 return struct";
+			sourceTree = "<group>";
+		};
+		BC5ACF1325A99C8300340066 /* Question 17-2 */ = {
+			isa = PBXGroup;
+			children = (
+				BC5ACF1425A99C8300340066 /* main.c */,
+			);
+			path = "Question 17-2";
+			sourceTree = "<group>";
+		};
+		BC5ACFB825A99E7400340066 /* 17-6 struct pointer */ = {
+			isa = PBXGroup;
+			children = (
+				BC5ACFB925A99E7400340066 /* main.c */,
+			);
+			path = "17-6 struct pointer";
+			sourceTree = "<group>";
+		};
+		BC5AD05E25A9A23900340066 /* 17-7 struct array */ = {
+			isa = PBXGroup;
+			children = (
+				BC5AD05F25A9A23900340066 /* main.c */,
+			);
+			path = "17-7 struct array";
+			sourceTree = "<group>";
+		};
+		BC5AD10525A9A5F600340066 /* 17-8 struct array_2 */ = {
+			isa = PBXGroup;
+			children = (
+				BC5AD10625A9A5F600340066 /* main.c */,
+			);
+			path = "17-8 struct array_2";
+			sourceTree = "<group>";
+		};
+		BC5AD1AD25A9A8C100340066 /* 17-9 self reference structure */ = {
+			isa = PBXGroup;
+			children = (
+				BC5AD1AE25A9A8C100340066 /* main.c */,
+			);
+			path = "17-9 self reference structure";
+			sourceTree = "<group>";
+		};
+		BC5AD25625A9FC3B00340066 /* 17-10 union */ = {
+			isa = PBXGroup;
+			children = (
+				BC5AD25725A9FC3B00340066 /* main.c */,
+			);
+			path = "17-10 union";
+			sourceTree = "<group>";
+		};
+		BC5AD30025A9FDDA00340066 /* 17-11 enum */ = {
+			isa = PBXGroup;
+			children = (
+				BC5AD30125A9FDDA00340066 /* main.c */,
+			);
+			path = "17-11 enum";
 			sourceTree = "<group>";
 		};
 		BC6C306B25A0034F00EDE01B /* 4-8 Shape conversion */ = {
@@ -5486,6 +5747,159 @@
 			productReference = BC5ACD2925A97DAE00340066 /* 17-3 struct member of struct */;
 			productType = "com.apple.product-type.tool";
 		};
+		BC5ACDCA25A98A6000340066 /* 17-4 initailize a struct */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5ACDCF25A98A6000340066 /* Build configuration list for PBXNativeTarget "17-4 initailize a struct" */;
+			buildPhases = (
+				BC5ACDC725A98A6000340066 /* Sources */,
+				BC5ACDC825A98A6000340066 /* Frameworks */,
+				BC5ACDC925A98A6000340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-4 initailize a struct";
+			productName = "17-4 initailize a struct";
+			productReference = BC5ACDCB25A98A6000340066 /* 17-4 initailize a struct */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5ACE6D25A997FF00340066 /* 17-5 return struct */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5ACE7225A997FF00340066 /* Build configuration list for PBXNativeTarget "17-5 return struct" */;
+			buildPhases = (
+				BC5ACE6A25A997FF00340066 /* Sources */,
+				BC5ACE6B25A997FF00340066 /* Frameworks */,
+				BC5ACE6C25A997FF00340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-5 return struct";
+			productName = "17-5 return struct";
+			productReference = BC5ACE6E25A997FF00340066 /* 17-5 return struct */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5ACF1125A99C8300340066 /* Question 17-2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5ACF1625A99C8300340066 /* Build configuration list for PBXNativeTarget "Question 17-2" */;
+			buildPhases = (
+				BC5ACF0E25A99C8300340066 /* Sources */,
+				BC5ACF0F25A99C8300340066 /* Frameworks */,
+				BC5ACF1025A99C8300340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Question 17-2";
+			productName = "Question 17-2";
+			productReference = BC5ACF1225A99C8300340066 /* Question 17-2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5ACFB625A99E7400340066 /* 17-6 struct pointer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5ACFBB25A99E7400340066 /* Build configuration list for PBXNativeTarget "17-6 struct pointer" */;
+			buildPhases = (
+				BC5ACFB325A99E7400340066 /* Sources */,
+				BC5ACFB425A99E7400340066 /* Frameworks */,
+				BC5ACFB525A99E7400340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-6 struct pointer";
+			productName = "17-6 struct pointer";
+			productReference = BC5ACFB725A99E7400340066 /* 17-6 struct pointer */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5AD05C25A9A23900340066 /* 17-7 struct array */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5AD06125A9A23900340066 /* Build configuration list for PBXNativeTarget "17-7 struct array" */;
+			buildPhases = (
+				BC5AD05925A9A23900340066 /* Sources */,
+				BC5AD05A25A9A23900340066 /* Frameworks */,
+				BC5AD05B25A9A23900340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-7 struct array";
+			productName = "17-7 struct array";
+			productReference = BC5AD05D25A9A23900340066 /* 17-7 struct array */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5AD10325A9A5F600340066 /* 17-8 struct array_2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5AD10825A9A5F600340066 /* Build configuration list for PBXNativeTarget "17-8 struct array_2" */;
+			buildPhases = (
+				BC5AD10025A9A5F600340066 /* Sources */,
+				BC5AD10125A9A5F600340066 /* Frameworks */,
+				BC5AD10225A9A5F600340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-8 struct array_2";
+			productName = "17-8 struct array_2";
+			productReference = BC5AD10425A9A5F600340066 /* 17-8 struct array_2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5AD1AB25A9A8C100340066 /* 17-9 self reference structure */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5AD1B025A9A8C100340066 /* Build configuration list for PBXNativeTarget "17-9 self reference structure" */;
+			buildPhases = (
+				BC5AD1A825A9A8C100340066 /* Sources */,
+				BC5AD1A925A9A8C100340066 /* Frameworks */,
+				BC5AD1AA25A9A8C100340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-9 self reference structure";
+			productName = "17-9 self reference structure";
+			productReference = BC5AD1AC25A9A8C100340066 /* 17-9 self reference structure */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5AD25425A9FC3B00340066 /* 17-10 union */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5AD25925A9FC3B00340066 /* Build configuration list for PBXNativeTarget "17-10 union" */;
+			buildPhases = (
+				BC5AD25125A9FC3B00340066 /* Sources */,
+				BC5AD25225A9FC3B00340066 /* Frameworks */,
+				BC5AD25325A9FC3B00340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-10 union";
+			productName = "17-10 union";
+			productReference = BC5AD25525A9FC3B00340066 /* 17-10 union */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC5AD2FE25A9FDDA00340066 /* 17-11 enum */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC5AD30325A9FDDA00340066 /* Build configuration list for PBXNativeTarget "17-11 enum" */;
+			buildPhases = (
+				BC5AD2FB25A9FDDA00340066 /* Sources */,
+				BC5AD2FC25A9FDDA00340066 /* Frameworks */,
+				BC5AD2FD25A9FDDA00340066 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-11 enum";
+			productName = "17-11 enum";
+			productReference = BC5AD2FF25A9FDDA00340066 /* 17-11 enum */;
+			productType = "com.apple.product-type.tool";
+		};
 		BC6C306925A0034F00EDE01B /* 4-8 Shape conversion */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BC6C307025A0035000EDE01B /* Build configuration list for PBXNativeTarget "4-8 Shape conversion" */;
@@ -7180,6 +7594,33 @@
 					BC5ACD2825A97DAE00340066 = {
 						CreatedOnToolsVersion = 12.3;
 					};
+					BC5ACDCA25A98A6000340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5ACE6D25A997FF00340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5ACF1125A99C8300340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5ACFB625A99E7400340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5AD05C25A9A23900340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5AD10325A9A5F600340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5AD1AB25A9A8C100340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5AD25425A9FC3B00340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC5AD2FE25A9FDDA00340066 = {
+						CreatedOnToolsVersion = 12.3;
+					};
 					BC6C306925A0034F00EDE01B = {
 						CreatedOnToolsVersion = 12.2;
 					};
@@ -7610,6 +8051,15 @@
 				BC5ACBE725A9731500340066 /* 17-1 struct */,
 				BC5ACC8725A9758000340066 /* 17-2 struct members */,
 				BC5ACD2825A97DAE00340066 /* 17-3 struct member of struct */,
+				BC5ACDCA25A98A6000340066 /* 17-4 initailize a struct */,
+				BC5ACE6D25A997FF00340066 /* 17-5 return struct */,
+				BC5ACF1125A99C8300340066 /* Question 17-2 */,
+				BC5ACFB625A99E7400340066 /* 17-6 struct pointer */,
+				BC5AD05C25A9A23900340066 /* 17-7 struct array */,
+				BC5AD10325A9A5F600340066 /* 17-8 struct array_2 */,
+				BC5AD1AB25A9A8C100340066 /* 17-9 self reference structure */,
+				BC5AD25425A9FC3B00340066 /* 17-10 union */,
+				BC5AD2FE25A9FDDA00340066 /* 17-11 enum */,
 			);
 		};
 /* End PBXProject section */
@@ -8116,6 +8566,78 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC5ACD2C25A97DAE00340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACDC725A98A6000340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5ACDCE25A98A6000340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACE6A25A997FF00340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5ACE7125A997FF00340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACF0E25A99C8300340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5ACF1525A99C8300340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5ACFB325A99E7400340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5ACFBA25A99E7400340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD05925A9A23900340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5AD06025A9A23900340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD10025A9A5F600340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5AD10725A9A5F600340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD1A825A9A8C100340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5AD1AF25A9A8C100340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD25125A9FC3B00340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5AD25825A9FC3B00340066 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC5AD2FB25A9FDDA00340066 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC5AD30225A9FDDA00340066 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -10313,6 +10835,204 @@
 			name = Debug;
 		};
 		BC5ACD2F25A97DAE00340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5ACDD025A98A6000340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5ACDD125A98A6000340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5ACE7325A997FF00340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5ACE7425A997FF00340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5ACF1725A99C8300340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5ACF1825A99C8300340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5ACFBC25A99E7400340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5ACFBD25A99E7400340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5AD06225A9A23900340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5AD06325A9A23900340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5AD10925A9A5F600340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5AD10A25A9A5F600340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5AD1B125A9A8C100340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5AD1B225A9A8C100340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5AD25A25A9FC3B00340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5AD25B25A9FC3B00340066 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC5AD30425A9FDDA00340066 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC5AD30525A9FDDA00340066 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -12896,6 +13616,87 @@
 			buildConfigurations = (
 				BC5ACD2E25A97DAE00340066 /* Debug */,
 				BC5ACD2F25A97DAE00340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5ACDCF25A98A6000340066 /* Build configuration list for PBXNativeTarget "17-4 initailize a struct" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5ACDD025A98A6000340066 /* Debug */,
+				BC5ACDD125A98A6000340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5ACE7225A997FF00340066 /* Build configuration list for PBXNativeTarget "17-5 return struct" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5ACE7325A997FF00340066 /* Debug */,
+				BC5ACE7425A997FF00340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5ACF1625A99C8300340066 /* Build configuration list for PBXNativeTarget "Question 17-2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5ACF1725A99C8300340066 /* Debug */,
+				BC5ACF1825A99C8300340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5ACFBB25A99E7400340066 /* Build configuration list for PBXNativeTarget "17-6 struct pointer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5ACFBC25A99E7400340066 /* Debug */,
+				BC5ACFBD25A99E7400340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5AD06125A9A23900340066 /* Build configuration list for PBXNativeTarget "17-7 struct array" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5AD06225A9A23900340066 /* Debug */,
+				BC5AD06325A9A23900340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5AD10825A9A5F600340066 /* Build configuration list for PBXNativeTarget "17-8 struct array_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5AD10925A9A5F600340066 /* Debug */,
+				BC5AD10A25A9A5F600340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5AD1B025A9A8C100340066 /* Build configuration list for PBXNativeTarget "17-9 self reference structure" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5AD1B125A9A8C100340066 /* Debug */,
+				BC5AD1B225A9A8C100340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5AD25925A9FC3B00340066 /* Build configuration list for PBXNativeTarget "17-10 union" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5AD25A25A9FC3B00340066 /* Debug */,
+				BC5AD25B25A9FC3B00340066 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC5AD30325A9FDDA00340066 /* Build configuration list for PBXNativeTarget "17-11 enum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC5AD30425A9FDDA00340066 /* Debug */,
+				BC5AD30525A9FDDA00340066 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

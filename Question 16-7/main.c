@@ -21,25 +21,28 @@ int main(int argc, const char * argv[]) {
         for (j = 2; j < i; j++) {
             if (i % j == 0) {
                 res = 0;
-                x++;
                 px = (char *)realloc(px, x * sizeof(char));
-                px[x - 1] = 'X';
-                printf("%5c", px[x - 1]);
+                px[x] = 'X';
+                printf("%5c", px[x]);
+                x++;
                 cnt++;
                 break;
             }
         }
         if (res == 1) {
-            n++;
             pn = (int *)realloc(pn, n * sizeof(int));
-            pn[n - 1] = i;
-            printf("%5d", pn[n - 1]);
+            pn[n] = i;
+            printf("%5d", pn[n]);
+            n++;
             cnt++;
         }
         if (cnt % 5 == 0) printf("\n");
     }
     
     printf("\n");
+    
+    free(pn);
+    free(px);
     
     return 0;
 }
