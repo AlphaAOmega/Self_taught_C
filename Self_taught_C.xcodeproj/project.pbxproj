@@ -94,6 +94,17 @@
 		BC6C85A125A73C8200875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C85A025A73C8200875043 /* main.c */; };
 		BC6C863725A7454C00875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C863625A7454C00875043 /* main.c */; };
 		BC6C86CE25A74AAD00875043 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC6C86CD25A74AAD00875043 /* main.c */; };
+		BC70448325AC184E003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC70448225AC184E003E9F8B /* main.c */; };
+		BC70453225AC1D49003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC70453125AC1D49003E9F8B /* main.c */; };
+		BC7045E225AC229A003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC7045E125AC229A003E9F8B /* main.c */; };
+		BC70469325AC2454003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC70469225AC2454003E9F8B /* main.c */; };
+		BC70474525AC25CB003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC70474425AC25CB003E9F8B /* main.c */; };
+		BC7047F825AC4EAA003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC7047F725AC4EAA003E9F8B /* main.c */; };
+		BC7048AC25AC5CD8003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC7048AB25AC5CD8003E9F8B /* main.c */; };
+		BC70496125AC6322003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC70496025AC6322003E9F8B /* main.c */; };
+		BC704A1725AC9AF9003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC704A1625AC9AF9003E9F8B /* main.c */; };
+		BC704ACE25AC9F6D003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC704ACD25AC9F6D003E9F8B /* main.c */; };
+		BC704B8625ACAC7B003E9F8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC704B8525ACAC7B003E9F8B /* main.c */; };
 		BC71C63125A6CAB7000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C63025A6CAB7000230C6 /* main.c */; };
 		BC71C6BE25A6D3A4000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C6BD25A6D3A4000230C6 /* main.c */; };
 		BC71C74C25A6DAF2000230C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC71C74B25A6DAF2000230C6 /* main.c */; };
@@ -948,6 +959,105 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		BC6C86C925A74AAD00875043 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC70447E25AC184E003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC70452D25AC1D49003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC7045DD25AC229A003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC70468E25AC2454003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC70474025AC25CB003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC7047F325AC4EA9003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC7048A725AC5CD8003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC70495C25AC6322003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC704A1225AC9AF8003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC704AC925AC9F6D003E9F8B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC704B8125ACAC7B003E9F8B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1817,6 +1927,28 @@
 		BC6C863625A7454C00875043 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC6C86CB25A74AAD00875043 /* Question 15-7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Question 15-7"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC6C86CD25A74AAD00875043 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC70448025AC184E003E9F8B /* 18-2 file output */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-2 file output"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC70448225AC184E003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC70452F25AC1D49003E9F8B /* 18-3 function fputs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-3 function fputs"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC70453125AC1D49003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC7045DF25AC229A003E9F8B /* 18-4 putchar with stdio */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-4 putchar with stdio"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC7045E125AC229A003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC70469025AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-5 fgetc and fputc with stdio"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC70469225AC2454003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC70474225AC25CB003E9F8B /* 18-6 filetype and open mode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-6 filetype and open mode"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC70474425AC25CB003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC7047F525AC4EA9003E9F8B /* 18-7 open mode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-7 open mode"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC7047F725AC4EAA003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC7048A925AC5CD8003E9F8B /* 18-8 io each line */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-8 io each line"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC7048AB25AC5CD8003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC70495E25AC6322003E9F8B /* 18-9 fscanf and fprintf */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-9 fscanf and fprintf"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC70496025AC6322003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC704A1425AC9AF9003E9F8B /* 18-10 problem of share buffer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-10 problem of share buffer"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC704A1625AC9AF9003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC704ACB25AC9F6D003E9F8B /* 18-11 fread and fwrite */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18-11 fread and fwrite"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC704ACD25AC9F6D003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC704B8325ACAC7B003E9F8B /* Question 18-7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Question 18-7"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC704B8525ACAC7B003E9F8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC71C62E25A6CAB7000230C6 /* 14-6 pointer array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14-6 pointer array"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC71C63025A6CAB7000230C6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC71C6BB25A6D3A4000230C6 /* 14-7 pointer array_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14-7 pointer array_2"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2581,6 +2713,83 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BC70447D25AC184E003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70452C25AC1D49003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7045DC25AC229A003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70468D25AC2454003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70473F25AC25CB003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7047F225AC4EA9003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7048A625AC5CD8003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70495B25AC6322003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704A1125AC9AF8003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704AC825AC9F6D003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704B8025ACAC7B003E9F8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BC71C62B25A6CAB7000230C6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -3282,6 +3491,17 @@
 				BC5AD3AB25AA024000340066 /* 17-12 typedef */,
 				BC5AD45725AA08E800340066 /* Question 17-7 */,
 				BC5BF4DF25AB482600AE7A54 /* 18-1 fopen and fclose */,
+				BC70448125AC184E003E9F8B /* 18-2 file output */,
+				BC70453025AC1D49003E9F8B /* 18-3 function fputs */,
+				BC7045E025AC229A003E9F8B /* 18-4 putchar with stdio */,
+				BC70469125AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */,
+				BC70474325AC25CB003E9F8B /* 18-6 filetype and open mode */,
+				BC7047F625AC4EAA003E9F8B /* 18-7 open mode */,
+				BC7048AA25AC5CD8003E9F8B /* 18-8 io each line */,
+				BC70495F25AC6322003E9F8B /* 18-9 fscanf and fprintf */,
+				BC704A1525AC9AF9003E9F8B /* 18-10 problem of share buffer */,
+				BC704ACC25AC9F6D003E9F8B /* 18-11 fread and fwrite */,
+				BC704B8425ACAC7B003E9F8B /* Question 18-7 */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -3452,6 +3672,17 @@
 				BC5AD3AA25AA024000340066 /* 17-12 typedef */,
 				BC5AD45625AA08E800340066 /* Question 17-7 */,
 				BC5BF4DE25AB482600AE7A54 /* 18-1 fopen and fclose */,
+				BC70448025AC184E003E9F8B /* 18-2 file output */,
+				BC70452F25AC1D49003E9F8B /* 18-3 function fputs */,
+				BC7045DF25AC229A003E9F8B /* 18-4 putchar with stdio */,
+				BC70469025AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */,
+				BC70474225AC25CB003E9F8B /* 18-6 filetype and open mode */,
+				BC7047F525AC4EA9003E9F8B /* 18-7 open mode */,
+				BC7048A925AC5CD8003E9F8B /* 18-8 io each line */,
+				BC70495E25AC6322003E9F8B /* 18-9 fscanf and fprintf */,
+				BC704A1425AC9AF9003E9F8B /* 18-10 problem of share buffer */,
+				BC704ACB25AC9F6D003E9F8B /* 18-11 fread and fwrite */,
+				BC704B8325ACAC7B003E9F8B /* Question 18-7 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -4150,6 +4381,94 @@
 				BC6C86CD25A74AAD00875043 /* main.c */,
 			);
 			path = "Question 15-7";
+			sourceTree = "<group>";
+		};
+		BC70448125AC184E003E9F8B /* 18-2 file output */ = {
+			isa = PBXGroup;
+			children = (
+				BC70448225AC184E003E9F8B /* main.c */,
+			);
+			path = "18-2 file output";
+			sourceTree = "<group>";
+		};
+		BC70453025AC1D49003E9F8B /* 18-3 function fputs */ = {
+			isa = PBXGroup;
+			children = (
+				BC70453125AC1D49003E9F8B /* main.c */,
+			);
+			path = "18-3 function fputs";
+			sourceTree = "<group>";
+		};
+		BC7045E025AC229A003E9F8B /* 18-4 putchar with stdio */ = {
+			isa = PBXGroup;
+			children = (
+				BC7045E125AC229A003E9F8B /* main.c */,
+			);
+			path = "18-4 putchar with stdio";
+			sourceTree = "<group>";
+		};
+		BC70469125AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */ = {
+			isa = PBXGroup;
+			children = (
+				BC70469225AC2454003E9F8B /* main.c */,
+			);
+			path = "18-5 fgetc and fputc with stdio";
+			sourceTree = "<group>";
+		};
+		BC70474325AC25CB003E9F8B /* 18-6 filetype and open mode */ = {
+			isa = PBXGroup;
+			children = (
+				BC70474425AC25CB003E9F8B /* main.c */,
+			);
+			path = "18-6 filetype and open mode";
+			sourceTree = "<group>";
+		};
+		BC7047F625AC4EAA003E9F8B /* 18-7 open mode */ = {
+			isa = PBXGroup;
+			children = (
+				BC7047F725AC4EAA003E9F8B /* main.c */,
+			);
+			path = "18-7 open mode";
+			sourceTree = "<group>";
+		};
+		BC7048AA25AC5CD8003E9F8B /* 18-8 io each line */ = {
+			isa = PBXGroup;
+			children = (
+				BC7048AB25AC5CD8003E9F8B /* main.c */,
+			);
+			path = "18-8 io each line";
+			sourceTree = "<group>";
+		};
+		BC70495F25AC6322003E9F8B /* 18-9 fscanf and fprintf */ = {
+			isa = PBXGroup;
+			children = (
+				BC70496025AC6322003E9F8B /* main.c */,
+			);
+			path = "18-9 fscanf and fprintf";
+			sourceTree = "<group>";
+		};
+		BC704A1525AC9AF9003E9F8B /* 18-10 problem of share buffer */ = {
+			isa = PBXGroup;
+			children = (
+				BC704A1625AC9AF9003E9F8B /* main.c */,
+			);
+			path = "18-10 problem of share buffer";
+			sourceTree = "<group>";
+		};
+		BC704ACC25AC9F6D003E9F8B /* 18-11 fread and fwrite */ = {
+			isa = PBXGroup;
+			children = (
+				BC704ACD25AC9F6D003E9F8B /* main.c */,
+			);
+			path = "18-11 fread and fwrite";
+			sourceTree = "<group>";
+		};
+		BC704B8425ACAC7B003E9F8B /* Question 18-7 */ = {
+			isa = PBXGroup;
+			children = (
+				BC704B8525ACAC7B003E9F8B /* main.c */,
+			);
+			path = "Question 18-7";
 			sourceTree = "<group>";
 		};
 		BC71C62F25A6CAB7000230C6 /* 14-6 pointer array */ = {
@@ -6242,6 +6561,193 @@
 			productReference = BC6C86CB25A74AAD00875043 /* Question 15-7 */;
 			productType = "com.apple.product-type.tool";
 		};
+		BC70447F25AC184E003E9F8B /* 18-2 file output */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC70448625AC184E003E9F8B /* Build configuration list for PBXNativeTarget "18-2 file output" */;
+			buildPhases = (
+				BC70447C25AC184E003E9F8B /* Sources */,
+				BC70447D25AC184E003E9F8B /* Frameworks */,
+				BC70447E25AC184E003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-2 file output";
+			productName = "18-2 file output";
+			productReference = BC70448025AC184E003E9F8B /* 18-2 file output */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC70452E25AC1D49003E9F8B /* 18-3 function fputs */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC70453325AC1D49003E9F8B /* Build configuration list for PBXNativeTarget "18-3 function fputs" */;
+			buildPhases = (
+				BC70452B25AC1D49003E9F8B /* Sources */,
+				BC70452C25AC1D49003E9F8B /* Frameworks */,
+				BC70452D25AC1D49003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-3 function fputs";
+			productName = "18-3 function fputs";
+			productReference = BC70452F25AC1D49003E9F8B /* 18-3 function fputs */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC7045DE25AC229A003E9F8B /* 18-4 putchar with stdio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC7045E325AC229A003E9F8B /* Build configuration list for PBXNativeTarget "18-4 putchar with stdio" */;
+			buildPhases = (
+				BC7045DB25AC229A003E9F8B /* Sources */,
+				BC7045DC25AC229A003E9F8B /* Frameworks */,
+				BC7045DD25AC229A003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-4 putchar with stdio";
+			productName = "18-4 putchar with stdio";
+			productReference = BC7045DF25AC229A003E9F8B /* 18-4 putchar with stdio */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC70468F25AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC70469425AC2455003E9F8B /* Build configuration list for PBXNativeTarget "18-5 fgetc and fputc with stdio" */;
+			buildPhases = (
+				BC70468C25AC2454003E9F8B /* Sources */,
+				BC70468D25AC2454003E9F8B /* Frameworks */,
+				BC70468E25AC2454003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-5 fgetc and fputc with stdio";
+			productName = "18-5 fgetc and fputc with stdio";
+			productReference = BC70469025AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC70474125AC25CB003E9F8B /* 18-6 filetype and open mode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC70474625AC25CB003E9F8B /* Build configuration list for PBXNativeTarget "18-6 filetype and open mode" */;
+			buildPhases = (
+				BC70473E25AC25CB003E9F8B /* Sources */,
+				BC70473F25AC25CB003E9F8B /* Frameworks */,
+				BC70474025AC25CB003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-6 filetype and open mode";
+			productName = "18-6 filetype and open mode";
+			productReference = BC70474225AC25CB003E9F8B /* 18-6 filetype and open mode */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC7047F425AC4EA9003E9F8B /* 18-7 open mode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC7047F925AC4EAA003E9F8B /* Build configuration list for PBXNativeTarget "18-7 open mode" */;
+			buildPhases = (
+				BC7047F125AC4EA9003E9F8B /* Sources */,
+				BC7047F225AC4EA9003E9F8B /* Frameworks */,
+				BC7047F325AC4EA9003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-7 open mode";
+			productName = "18-7 open mode";
+			productReference = BC7047F525AC4EA9003E9F8B /* 18-7 open mode */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC7048A825AC5CD8003E9F8B /* 18-8 io each line */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC7048AD25AC5CD8003E9F8B /* Build configuration list for PBXNativeTarget "18-8 io each line" */;
+			buildPhases = (
+				BC7048A525AC5CD8003E9F8B /* Sources */,
+				BC7048A625AC5CD8003E9F8B /* Frameworks */,
+				BC7048A725AC5CD8003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-8 io each line";
+			productName = "18-8 io each line";
+			productReference = BC7048A925AC5CD8003E9F8B /* 18-8 io each line */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC70495D25AC6322003E9F8B /* 18-9 fscanf and fprintf */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC70496225AC6322003E9F8B /* Build configuration list for PBXNativeTarget "18-9 fscanf and fprintf" */;
+			buildPhases = (
+				BC70495A25AC6322003E9F8B /* Sources */,
+				BC70495B25AC6322003E9F8B /* Frameworks */,
+				BC70495C25AC6322003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-9 fscanf and fprintf";
+			productName = "18-9 fscanf and fprintf";
+			productReference = BC70495E25AC6322003E9F8B /* 18-9 fscanf and fprintf */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC704A1325AC9AF8003E9F8B /* 18-10 problem of share buffer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC704A1825AC9AF9003E9F8B /* Build configuration list for PBXNativeTarget "18-10 problem of share buffer" */;
+			buildPhases = (
+				BC704A1025AC9AF8003E9F8B /* Sources */,
+				BC704A1125AC9AF8003E9F8B /* Frameworks */,
+				BC704A1225AC9AF8003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-10 problem of share buffer";
+			productName = "18-10 problem of share buffer";
+			productReference = BC704A1425AC9AF9003E9F8B /* 18-10 problem of share buffer */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC704ACA25AC9F6D003E9F8B /* 18-11 fread and fwrite */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC704ACF25AC9F6D003E9F8B /* Build configuration list for PBXNativeTarget "18-11 fread and fwrite" */;
+			buildPhases = (
+				BC704AC725AC9F6D003E9F8B /* Sources */,
+				BC704AC825AC9F6D003E9F8B /* Frameworks */,
+				BC704AC925AC9F6D003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18-11 fread and fwrite";
+			productName = "18-11 fread and fwrite";
+			productReference = BC704ACB25AC9F6D003E9F8B /* 18-11 fread and fwrite */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC704B8225ACAC7B003E9F8B /* Question 18-7 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC704B8725ACAC7B003E9F8B /* Build configuration list for PBXNativeTarget "Question 18-7" */;
+			buildPhases = (
+				BC704B7F25ACAC7B003E9F8B /* Sources */,
+				BC704B8025ACAC7B003E9F8B /* Frameworks */,
+				BC704B8125ACAC7B003E9F8B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Question 18-7";
+			productName = "Question 18-7";
+			productReference = BC704B8325ACAC7B003E9F8B /* Question 18-7 */;
+			productType = "com.apple.product-type.tool";
+		};
 		BC71C62D25A6CAB7000230C6 /* 14-6 pointer array */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BC71C63425A6CAB7000230C6 /* Build configuration list for PBXNativeTarget "14-6 pointer array" */;
@@ -7804,6 +8310,39 @@
 					BC6C86CA25A74AAD00875043 = {
 						CreatedOnToolsVersion = 12.3;
 					};
+					BC70447F25AC184E003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC70452E25AC1D49003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC7045DE25AC229A003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC70468F25AC2454003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC70474125AC25CB003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC7047F425AC4EA9003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC7048A825AC5CD8003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC70495D25AC6322003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC704A1325AC9AF8003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC704ACA25AC9F6D003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC704B8225ACAC7B003E9F8B = {
+						CreatedOnToolsVersion = 12.3;
+					};
 					BC71C62D25A6CAB7000230C6 = {
 						CreatedOnToolsVersion = 12.3;
 					};
@@ -8210,6 +8749,17 @@
 				BC5AD3A925AA024000340066 /* 17-12 typedef */,
 				BC5AD45525AA08E800340066 /* Question 17-7 */,
 				BC5BF4DD25AB482600AE7A54 /* 18-1 fopen and fclose */,
+				BC70447F25AC184E003E9F8B /* 18-2 file output */,
+				BC70452E25AC1D49003E9F8B /* 18-3 function fputs */,
+				BC7045DE25AC229A003E9F8B /* 18-4 putchar with stdio */,
+				BC70468F25AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */,
+				BC70474125AC25CB003E9F8B /* 18-6 filetype and open mode */,
+				BC7047F425AC4EA9003E9F8B /* 18-7 open mode */,
+				BC7048A825AC5CD8003E9F8B /* 18-8 io each line */,
+				BC70495D25AC6322003E9F8B /* 18-9 fscanf and fprintf */,
+				BC704A1325AC9AF8003E9F8B /* 18-10 problem of share buffer */,
+				BC704ACA25AC9F6D003E9F8B /* 18-11 fread and fwrite */,
+				BC704B8225ACAC7B003E9F8B /* Question 18-7 */,
 			);
 		};
 /* End PBXProject section */
@@ -8908,6 +9458,94 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC6C86CE25A74AAD00875043 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70447C25AC184E003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC70448325AC184E003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70452B25AC1D49003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC70453225AC1D49003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7045DB25AC229A003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC7045E225AC229A003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70468C25AC2454003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC70469325AC2454003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70473E25AC25CB003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC70474525AC25CB003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7047F125AC4EA9003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC7047F825AC4EAA003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC7048A525AC5CD8003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC7048AC25AC5CD8003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC70495A25AC6322003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC70496125AC6322003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704A1025AC9AF8003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC704A1725AC9AF9003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704AC725AC9F6D003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC704ACE25AC9F6D003E9F8B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC704B7F25ACAC7B003E9F8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC704B8625ACAC7B003E9F8B /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -11547,6 +12185,248 @@
 			};
 			name = Release;
 		};
+		BC70448425AC184E003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC70448525AC184E003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC70453425AC1D49003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC70453525AC1D49003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC7045E425AC229A003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC7045E525AC229A003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC70469525AC2455003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC70469625AC2455003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC70474725AC25CB003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC70474825AC25CB003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC7047FA25AC4EAA003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC7047FB25AC4EAA003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC7048AE25AC5CD8003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC7048AF25AC5CD8003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC70496325AC6322003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC70496425AC6322003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC704A1925AC9AF9003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC704A1A25AC9AF9003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC704AD025AC9F6D003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC704AD125AC9F6D003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC704B8825ACAC7B003E9F8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC704B8925ACAC7B003E9F8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		BC71C63225A6CAB7000230C6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -14072,6 +14952,105 @@
 			buildConfigurations = (
 				BC6C86D025A74AAD00875043 /* Debug */,
 				BC6C86D125A74AAD00875043 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC70448625AC184E003E9F8B /* Build configuration list for PBXNativeTarget "18-2 file output" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC70448425AC184E003E9F8B /* Debug */,
+				BC70448525AC184E003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC70453325AC1D49003E9F8B /* Build configuration list for PBXNativeTarget "18-3 function fputs" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC70453425AC1D49003E9F8B /* Debug */,
+				BC70453525AC1D49003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC7045E325AC229A003E9F8B /* Build configuration list for PBXNativeTarget "18-4 putchar with stdio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC7045E425AC229A003E9F8B /* Debug */,
+				BC7045E525AC229A003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC70469425AC2455003E9F8B /* Build configuration list for PBXNativeTarget "18-5 fgetc and fputc with stdio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC70469525AC2455003E9F8B /* Debug */,
+				BC70469625AC2455003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC70474625AC25CB003E9F8B /* Build configuration list for PBXNativeTarget "18-6 filetype and open mode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC70474725AC25CB003E9F8B /* Debug */,
+				BC70474825AC25CB003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC7047F925AC4EAA003E9F8B /* Build configuration list for PBXNativeTarget "18-7 open mode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC7047FA25AC4EAA003E9F8B /* Debug */,
+				BC7047FB25AC4EAA003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC7048AD25AC5CD8003E9F8B /* Build configuration list for PBXNativeTarget "18-8 io each line" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC7048AE25AC5CD8003E9F8B /* Debug */,
+				BC7048AF25AC5CD8003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC70496225AC6322003E9F8B /* Build configuration list for PBXNativeTarget "18-9 fscanf and fprintf" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC70496325AC6322003E9F8B /* Debug */,
+				BC70496425AC6322003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC704A1825AC9AF9003E9F8B /* Build configuration list for PBXNativeTarget "18-10 problem of share buffer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC704A1925AC9AF9003E9F8B /* Debug */,
+				BC704A1A25AC9AF9003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC704ACF25AC9F6D003E9F8B /* Build configuration list for PBXNativeTarget "18-11 fread and fwrite" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC704AD025AC9F6D003E9F8B /* Debug */,
+				BC704AD125AC9F6D003E9F8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC704B8725ACAC7B003E9F8B /* Build configuration list for PBXNativeTarget "Question 18-7" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC704B8825ACAC7B003E9F8B /* Debug */,
+				BC704B8925ACAC7B003E9F8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
