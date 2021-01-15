@@ -3546,191 +3546,25 @@
 		BC0DB660259A2D0000016AC9 = {
 			isa = PBXGroup;
 			children = (
-				BC0DB66B259A2D0000016AC9 /* 1-2 Creat new project */,
-				BC854A25259ACF1400388DA6 /* 2-1 funtion main */,
-				BC854A32259AD03A00388DA6 /* 2-2 String output */,
-				BC854A40259AD12D00388DA6 /* 2-3 Control characters */,
-				BC854A4F259AD5BF00388DA6 /* 2-4 Integer and real number */,
-				BC854A5F259ADC4100388DA6 /* 2-5 Output in 3 notations */,
-				BC854A70259ADDCA00388DA6 /* 2-6 Nomalization */,
-				BC854A82259ADFDD00388DA6 /* 2-7 Character and string */,
-				BC854A95259AF6C000388DA6 /* 3-1 Define variable */,
-				BC854AA9259AFB1B00388DA6 /* 3-2 Char type variable */,
-				BC854ABE259AFBE300388DA6 /* 3-3 Variety variables */,
-				BC854ADF259AFF8700388DA6 /* 3-4 Unsigned integer variable */,
-				BC854AF6259B022500388DA6 /* 3-5 Significant digit */,
-				BC854B0E259B03D000388DA6 /* 3-6 String in char arrangement */,
-				BC854B6E259B075200388DA6 /* 3-7 Copy str to char array */,
-				BC854B97259B0A6E00388DA6 /* 3-8 Const variable */,
-				BC854BB2259B0EC300388DA6 /* 3-9 Scanf function */,
-				BC854BCE259B0FFF00388DA6 /* 3-10 Scanf function_2 */,
-				BC854BEB259B113200388DA6 /* 3-11 Scanf function_3 */,
-				BC854C09259B163300388DA6 /* 4-1 Arithmetic operator */,
-				BCBBB6B9259CBADB00FDBC88 /* 4-2 Devide operator */,
-				BCBBB6D9259CBBD300FDBC88 /* 4-3 Increment and decrement */,
-				BCBBB710259CBC9000FDBC88 /* 4-4 Prefix and postfix */,
-				BCBBB732259CBDC100FDBC88 /* 4-5 Relational operator */,
-				BCBBB755259CBF6900FDBC88 /* 4-6 Logical operator */,
-				BCBBB779259CC18500FDBC88 /* 4-7 Use result */,
-				BC6C306B25A0034F00EDE01B /* 4-8 Shape conversion */,
-				BC6C309125A0051C00EDE01B /* 4-9 Operator sizeof */,
-				BC6C30B825A00B4300EDE01B /* 4-10 Complex entry operator */,
-				BCB55AC225A01FA9000F26FD /* 4-11 Comma operator */,
-				BCB55AEB25A02096000F26FD /* 4-12 Conditional operator */,
-				BCB55B1525A021F0000F26FD /* 4-13 Bit operator */,
-				BCB55B4025A0244D000F26FD /* 4-14 Operator priority */,
-				BCB55B6C25A02B67000F26FD /* Question 4-3 */,
-				BCB55B9925A2F152000F26FD /* Question 4-4 */,
-				BCB55BC725A2F8AC000F26FD /* 5-1 If sentence */,
-				BCB55BF625A2F989000F26FD /* 5-2 If else sentence */,
-				BCB55C2625A2FA60000F26FD /* 5-3 else if sentence */,
-				BCB55D5525A2FCE7000F26FD /* Question 5-1 */,
-				BCB55D8725A2FD79000F26FD /* Question 5-2 */,
-				BCB55DBA25A2FEEE000F26FD /* Question 5-3 */,
-				BCB55E4025A30076000F26FD /* 5-4 Duplicate if */,
-				BCB55E7525A3020D000F26FD /* 5-5 Dupilcate if_2 */,
-				BCB55EAB25A32449000F26FD /* 5-6 switch case */,
-				BCB55EE225A3271B000F26FD /* Question 5-6 */,
-				BCB55F1A25A32878000F26FD /* Question 5-7 */,
-				BCB55F5325A32ECA000F26FD /* 6-1 while */,
-				BCB55F8D25A33A29000F26FD /* 6-2 for */,
-				BCB55FC825A33B80000F26FD /* 6-3 do while */,
-				BCB5600425A33CBB000F26FD /* Question 6-1 */,
-				BCB5604125A33E3A000F26FD /* Question 6-2 */,
-				BCB5607F25A33FFF000F26FD /* 6-4 Nested iteration */,
-				BCB560BE25A3415E000F26FD /* 6-5 break */,
-				BCB560FE25A3450D000F26FD /* Question 6-5 */,
-				BCB5613F25A34744000F26FD /* Question 6-6 */,
-				BCB5618125A36091000F26FD /* 7-1 Two function */,
-				BCB561C425A363E8000F26FD /* Question 7-3 */,
-				BCB5620825A3665E000F26FD /* 7-2 function without parameter */,
-				BCB5624D25A367AE000F26FD /* 7-3 function without return */,
-				BCB5629325A368FF000F26FD /* 7-4 function without both */,
-				BCB5631625A36A41000F26FD /* 7-5 Recursive function */,
-				BCB5635E25A36AF7000F26FD /* 7-6 Recursive function_2 */,
-				BCB563A725A36D62000F26FD /* Question 7-5 */,
-				BCB563F125A36F7A000F26FD /* Question 7-7 */,
-				BCB5643C25A376B5000F26FD /* 8-1 Array */,
-				BCB5648825A37847000F26FD /* 8-2 iteration array */,
-				BCB564D525A37A6C000F26FD /* 8-3 sizeof array */,
-				BCB5652325A37E59000F26FD /* Question 8-3 */,
-				BCB5657225A37F5C000F26FD /* 8-4 char array */,
-				BCB565C225A3805B000F26FD /* 8-5 function strcpy */,
-				BCB5661325A381E7000F26FD /* 8-6 gets puts */,
-				BC55813E25A3F7EB007A429C /* 8-7 without null */,
-				BC55819125A3F93C007A429C /* Question 8-6 */,
-				BC5581E525A3FB3C007A429C /* Question 8-7 */,
-				BC55823A25A4080B007A429C /* 9-1 memory address */,
-				BC55829025A409AD007A429C /* 9-2 pointer */,
-				BC5582E725A40B2F007A429C /* 9-3 pointer_2 */,
-				BC55833F25A40D99007A429C /* 9-4 const pointer */,
-				BC55839825A41150007A429C /* 9-5 sizeof pointer */,
-				BC5583F225A41716007A429C /* 9-6 pointer substitution */,
-				BC55844D25A41A33007A429C /* 9-7 pointer_3 */,
-				BC5584A925A42582007A429C /* 9-8 swap without pointer */,
-				BC55850625A43451007A429C /* Question 9-4 */,
-				BC55856425A43B9A007A429C /* 10-1 operate integer to array */,
-				BC5585C325A440FC007A429C /* 10-2 array name pointer */,
-				BC55862325A44331007A429C /* 10-3 array output pointer */,
-				BC55868425A44602007A429C /* 10-4 operate pointer */,
-				BC5586E625A4541A007A429C /* 10-5 array function */,
-				BC55874925A45603007A429C /* 10-6 array function_2 */,
-				BC5587AD25A457A5007A429C /* 10-7 array function_3 */,
-				BC55881225A45D78007A429C /* Question 10-5 */,
-				BC55887825A47419007A429C /* Question 10-6 */,
-				BC5588DF25A49073007A429C /* 11-1 small to capital */,
-				BC55894725A49207007A429C /* 11-2 scanf char */,
-				BC5589B025A49339007A429C /* 11-3 getchar putchar */,
-				BC558A1A25A49714007A429C /* 11-4 buffer */,
-				BC558A8525A499B9007A429C /* 11-5 char ascii code */,
-				BC558AF125A49EB9007A429C /* 11-6 getchar */,
-				BC558B5E25A4A1C3007A429C /* 11-7 empty buffer */,
-				BC558BCC25A4B634007A429C /* Question 11-7 */,
-				BC574B7825A5671A00785A5F /* 12-1 const str array */,
-				BC574BE825A56B1700785A5F /* 12-2 str array with pointer */,
-				BC574C5925A5756200785A5F /* 12-3 str array with scanf */,
-				BC574CCB25A57C8E00785A5F /* 12-5 function fgets */,
-				BC574D3E25A57E7700785A5F /* 12-6 remained in buffer */,
-				BC574DB225A58C2500785A5F /* 12-7 function fputs */,
-				BC574E2725A59F3000785A5F /* Question 12-3 */,
-				BC574E9D25A5A3A300785A5F /* 12-8 function strcpy */,
-				BC574F1425A5A89200785A5F /* 12-9 function strncpy */,
-				BC574F8C25A5ADB900785A5F /* 12-10 function strcat */,
-				BC57500525A5AE5D00785A5F /* 12-11 function strlen */,
-				BC57507F25A5AF8D00785A5F /* 12-12 function strcmp */,
-				BC5750FA25A5B26600785A5F /* 12-13 build function strcpy */,
-				BC57517625A5CAF100785A5F /* Question 12-6 */,
-				BC5751F325A5D74A00785A5F /* Question 12-7 */,
-				BC0F23F425A5EC5F004DE6B7 /* 13-1 auto variable */,
-				BC0F247325A5FB53004DE6B7 /* 13-2 auto variable_2 */,
-				BC0F24F325A5FC44004DE6B7 /* 13-3 global variable */,
-				BC0F257425A5FE94004DE6B7 /* 13-4 static variable */,
-				BC0F25F625A60009004DE6B7 /* 13-5 register variable */,
-				BC41EBB825A608AA0056494C /* 13-6 share data with other func */,
-				BC41EC3C25A609A20056494C /* 13-7 share data with other func_2 */,
-				BC41ECC125A60AF80056494C /* 13-8 return address */,
-				BC41ED4725A60DEE0056494C /* Question 13-7 */,
-				BC41EDCE25A611280056494C /* 14-1 2d array */,
-				BC41EE5625A6144D0056494C /* 14-2 initialize 2d array */,
-				BC41EF5D25A617990056494C /* 14-3 char 2d array */,
-				BC41EFE725A619110056494C /* 14-4 initialize char 2d array */,
-				BC41F07225A61DCD0056494C /* 14-5 3d array */,
-				BC71C62F25A6CAB7000230C6 /* 14-6 pointer array */,
-				BC71C6BC25A6D3A4000230C6 /* 14-7 pointer array_2 */,
-				BC71C74A25A6DAF2000230C6 /* Question 14-7 */,
-				BC6C823025A6EB0400875043 /* 15-1 double pointer */,
-				BC6C82C025A6F6EB00875043 /* 15-2 double pointer_2 */,
-				BC6C835125A6FB9D00875043 /* 15-3 double pointer_3 */,
-				BC6C83E325A6FE9A00875043 /* 15-4 array address */,
-				BC6C847625A7010700875043 /* 15-5 2d array and array pointer */,
-				BC6C850A25A73A7600875043 /* 15-7 function pointer */,
-				BC6C859F25A73C8200875043 /* 15-8 function pointer_2 */,
-				BC6C863525A7454C00875043 /* 15-9 void pointer */,
-				BC6C86CC25A74AAD00875043 /* Question 15-7 */,
-				BC8D9BCE25A8A03400764E04 /* 16-1 function malloc */,
-				BC8D9C6725A8A33600764E04 /* 16-2 function malloc_2 */,
-				BC8D9D0125A8A53300764E04 /* 16-3 functino calloc and realloc */,
-				BC8D9D9C25A8B6E400764E04 /* 16-4 dynamic allocation */,
-				BC8D9E3825A8BA1600764E04 /* 16-5 dynamic allocation_2 */,
-				BC8D9ED525A8C40500764E04 /* 16-6 command line argument */,
-				BC5ACB4A25A961FD00340066 /* Question 16-7 */,
-				BC5ACBE925A9731500340066 /* 17-1 struct */,
-				BC5ACC8925A9758000340066 /* 17-2 struct members */,
-				BC5ACD2A25A97DAE00340066 /* 17-3 struct member of struct */,
-				BC5ACDCC25A98A6000340066 /* 17-4 initailize a struct */,
-				BC5ACE6F25A997FF00340066 /* 17-5 return struct */,
-				BC5ACF1325A99C8300340066 /* Question 17-2 */,
-				BC5ACFB825A99E7400340066 /* 17-6 struct pointer */,
-				BC5AD05E25A9A23900340066 /* 17-7 struct array */,
-				BC5AD10525A9A5F600340066 /* 17-8 struct array_2 */,
-				BC5AD1AD25A9A8C100340066 /* 17-9 self reference structure */,
-				BC5AD25625A9FC3B00340066 /* 17-10 union */,
-				BC5AD30025A9FDDA00340066 /* 17-11 enum */,
-				BC5AD3AB25AA024000340066 /* 17-12 typedef */,
-				BC5AD45725AA08E800340066 /* Question 17-7 */,
-				BC5BF4DF25AB482600AE7A54 /* 18-1 fopen and fclose */,
-				BC70448125AC184E003E9F8B /* 18-2 file output */,
-				BC70453025AC1D49003E9F8B /* 18-3 function fputs */,
-				BC7045E025AC229A003E9F8B /* 18-4 putchar with stdio */,
-				BC70469125AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */,
-				BC70474325AC25CB003E9F8B /* 18-6 filetype and open mode */,
-				BC7047F625AC4EAA003E9F8B /* 18-7 open mode */,
-				BC7048AA25AC5CD8003E9F8B /* 18-8 io each line */,
-				BC70495F25AC6322003E9F8B /* 18-9 fscanf and fprintf */,
-				BC704A1525AC9AF9003E9F8B /* 18-10 problem of share buffer */,
-				BC704ACC25AC9F6D003E9F8B /* 18-11 fread and fwrite */,
-				BC704B8425ACAC7B003E9F8B /* Question 18-7 */,
-				BCE31F5125AD7A1D0058B186 /* 19-1 custom header */,
-				BCE320BB25AD7DD10058B186 /* 19-2 define */,
-				BCE322D625AD80070058B186 /* 19-3 macro func with define */,
-				BCE3244325AD9EBB0058B186 /* 19-4 preprocessor macro */,
-				BCE3250025ADA0F80058B186 /* 19-5 macro operator */,
-				BCE325BE25ADA21A0058B186 /* 19-6 conditional compile */,
-				BCE3267D25ADA3A20058B186 /* 19-7 pragma directive */,
-				BC76E00925AEEA9700759A4D /* 19-8 compile multiple source file */,
-				BC76E18225AEF61700759A4D /* 19-9 exturn and static */,
-				BC76E3B625AEFACE00759A4D /* 19-10 necessity of header */,
-				BC76E53325AF287D00759A4D /* Question 19-7 */,
+				BC853E0E25B1FA18001024DE /* Chapter_1 */,
+				BC853E0F25B1FA32001024DE /* Chapter_2 */,
+				BC853EC925B1FA69001024DE /* Chapter_3 */,
+				BC853ECA25B1FA8B001024DE /* Chapter_4 */,
+				BC853ECB25B1FAC7001024DE /* Chapter_5 */,
+				BC853ECC25B1FADC001024DE /* Chapter_6 */,
+				BC853ECD25B1FB07001024DE /* Chapter_7 */,
+				BC853ECE25B1FB1E001024DE /* Chapter_8 */,
+				BC853ECF25B1FB34001024DE /* Chapter_9 */,
+				BC853ED025B1FB47001024DE /* Chapter_10 */,
+				BC853ED125B1FB4F001024DE /* Chapter_11 */,
+				BC853ED225B1FB57001024DE /* Chapter_12 */,
+				BC853ED325B1FB5F001024DE /* Chapter_13 */,
+				BC853ED425B1FB6A001024DE /* Chapter_14 */,
+				BC853ED525B1FB77001024DE /* Chapter_15 */,
+				BC853ED625B1FB7C001024DE /* Chapter_16 */,
+				BC853ED725B1FB82001024DE /* Chapter_17 */,
+				BC853ED825B1FB87001024DE /* Chapter_18 */,
+				BC853ED925B1FB8D001024DE /* Chapter_19 */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -4234,7 +4068,6 @@
 		BC5589B025A49339007A429C /* 11-3 getchar putchar */ = {
 			isa = PBXGroup;
 			children = (
-				BC5589B125A49339007A429C /* main.c */,
 			);
 			path = "11-3 getchar putchar";
 			sourceTree = "<group>";
@@ -4770,6 +4603,325 @@
 				BC76E53425AF287D00759A4D /* main.c */,
 			);
 			path = "Question 19-7";
+			sourceTree = "<group>";
+		};
+		BC853E0E25B1FA18001024DE /* Chapter_1 */ = {
+			isa = PBXGroup;
+			children = (
+				BC0DB66B259A2D0000016AC9 /* 1-2 Creat new project */,
+			);
+			path = Chapter_1;
+			sourceTree = "<group>";
+		};
+		BC853E0F25B1FA32001024DE /* Chapter_2 */ = {
+			isa = PBXGroup;
+			children = (
+				BC854A25259ACF1400388DA6 /* 2-1 funtion main */,
+				BC854A32259AD03A00388DA6 /* 2-2 String output */,
+				BC854A40259AD12D00388DA6 /* 2-3 Control characters */,
+				BC854A4F259AD5BF00388DA6 /* 2-4 Integer and real number */,
+				BC854A5F259ADC4100388DA6 /* 2-5 Output in 3 notations */,
+				BC854A70259ADDCA00388DA6 /* 2-6 Nomalization */,
+				BC854A82259ADFDD00388DA6 /* 2-7 Character and string */,
+			);
+			path = Chapter_2;
+			sourceTree = "<group>";
+		};
+		BC853EC925B1FA69001024DE /* Chapter_3 */ = {
+			isa = PBXGroup;
+			children = (
+				BC854A95259AF6C000388DA6 /* 3-1 Define variable */,
+				BC854AA9259AFB1B00388DA6 /* 3-2 Char type variable */,
+				BC854ABE259AFBE300388DA6 /* 3-3 Variety variables */,
+				BC854ADF259AFF8700388DA6 /* 3-4 Unsigned integer variable */,
+				BC854AF6259B022500388DA6 /* 3-5 Significant digit */,
+				BC854B0E259B03D000388DA6 /* 3-6 String in char arrangement */,
+				BC854B6E259B075200388DA6 /* 3-7 Copy str to char array */,
+				BC854B97259B0A6E00388DA6 /* 3-8 Const variable */,
+				BC854BB2259B0EC300388DA6 /* 3-9 Scanf function */,
+				BC854BCE259B0FFF00388DA6 /* 3-10 Scanf function_2 */,
+				BC854BEB259B113200388DA6 /* 3-11 Scanf function_3 */,
+			);
+			path = Chapter_3;
+			sourceTree = "<group>";
+		};
+		BC853ECA25B1FA8B001024DE /* Chapter_4 */ = {
+			isa = PBXGroup;
+			children = (
+				BC854C09259B163300388DA6 /* 4-1 Arithmetic operator */,
+				BCBBB6B9259CBADB00FDBC88 /* 4-2 Devide operator */,
+				BCBBB6D9259CBBD300FDBC88 /* 4-3 Increment and decrement */,
+				BCBBB710259CBC9000FDBC88 /* 4-4 Prefix and postfix */,
+				BCBBB732259CBDC100FDBC88 /* 4-5 Relational operator */,
+				BCBBB755259CBF6900FDBC88 /* 4-6 Logical operator */,
+				BCBBB779259CC18500FDBC88 /* 4-7 Use result */,
+				BC6C306B25A0034F00EDE01B /* 4-8 Shape conversion */,
+				BC6C309125A0051C00EDE01B /* 4-9 Operator sizeof */,
+				BC6C30B825A00B4300EDE01B /* 4-10 Complex entry operator */,
+				BCB55AC225A01FA9000F26FD /* 4-11 Comma operator */,
+				BCB55AEB25A02096000F26FD /* 4-12 Conditional operator */,
+				BCB55B1525A021F0000F26FD /* 4-13 Bit operator */,
+				BCB55B4025A0244D000F26FD /* 4-14 Operator priority */,
+				BCB55B6C25A02B67000F26FD /* Question 4-3 */,
+				BCB55B9925A2F152000F26FD /* Question 4-4 */,
+			);
+			path = Chapter_4;
+			sourceTree = "<group>";
+		};
+		BC853ECB25B1FAC7001024DE /* Chapter_5 */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55BC725A2F8AC000F26FD /* 5-1 If sentence */,
+				BCB55BF625A2F989000F26FD /* 5-2 If else sentence */,
+				BCB55C2625A2FA60000F26FD /* 5-3 else if sentence */,
+				BCB55D5525A2FCE7000F26FD /* Question 5-1 */,
+				BCB55D8725A2FD79000F26FD /* Question 5-2 */,
+				BCB55DBA25A2FEEE000F26FD /* Question 5-3 */,
+				BCB55E4025A30076000F26FD /* 5-4 Duplicate if */,
+				BCB55E7525A3020D000F26FD /* 5-5 Dupilcate if_2 */,
+				BCB55EAB25A32449000F26FD /* 5-6 switch case */,
+				BCB55EE225A3271B000F26FD /* Question 5-6 */,
+				BCB55F1A25A32878000F26FD /* Question 5-7 */,
+			);
+			path = Chapter_5;
+			sourceTree = "<group>";
+		};
+		BC853ECC25B1FADC001024DE /* Chapter_6 */ = {
+			isa = PBXGroup;
+			children = (
+				BCB55F5325A32ECA000F26FD /* 6-1 while */,
+				BCB55F8D25A33A29000F26FD /* 6-2 for */,
+				BCB55FC825A33B80000F26FD /* 6-3 do while */,
+				BCB5600425A33CBB000F26FD /* Question 6-1 */,
+				BCB5604125A33E3A000F26FD /* Question 6-2 */,
+				BCB5607F25A33FFF000F26FD /* 6-4 Nested iteration */,
+				BCB560BE25A3415E000F26FD /* 6-5 break */,
+				BCB560FE25A3450D000F26FD /* Question 6-5 */,
+				BCB5613F25A34744000F26FD /* Question 6-6 */,
+			);
+			path = Chapter_6;
+			sourceTree = "<group>";
+		};
+		BC853ECD25B1FB07001024DE /* Chapter_7 */ = {
+			isa = PBXGroup;
+			children = (
+				BCB5618125A36091000F26FD /* 7-1 Two function */,
+				BCB561C425A363E8000F26FD /* Question 7-3 */,
+				BCB5620825A3665E000F26FD /* 7-2 function without parameter */,
+				BCB5624D25A367AE000F26FD /* 7-3 function without return */,
+				BCB5629325A368FF000F26FD /* 7-4 function without both */,
+				BCB5631625A36A41000F26FD /* 7-5 Recursive function */,
+				BCB5635E25A36AF7000F26FD /* 7-6 Recursive function_2 */,
+				BCB563A725A36D62000F26FD /* Question 7-5 */,
+				BCB563F125A36F7A000F26FD /* Question 7-7 */,
+			);
+			path = Chapter_7;
+			sourceTree = "<group>";
+		};
+		BC853ECE25B1FB1E001024DE /* Chapter_8 */ = {
+			isa = PBXGroup;
+			children = (
+				BCB5643C25A376B5000F26FD /* 8-1 Array */,
+				BCB5648825A37847000F26FD /* 8-2 iteration array */,
+				BCB564D525A37A6C000F26FD /* 8-3 sizeof array */,
+				BCB5652325A37E59000F26FD /* Question 8-3 */,
+				BCB5657225A37F5C000F26FD /* 8-4 char array */,
+				BCB565C225A3805B000F26FD /* 8-5 function strcpy */,
+				BCB5661325A381E7000F26FD /* 8-6 gets puts */,
+				BC55813E25A3F7EB007A429C /* 8-7 without null */,
+				BC55819125A3F93C007A429C /* Question 8-6 */,
+				BC5581E525A3FB3C007A429C /* Question 8-7 */,
+			);
+			path = Chapter_8;
+			sourceTree = "<group>";
+		};
+		BC853ECF25B1FB34001024DE /* Chapter_9 */ = {
+			isa = PBXGroup;
+			children = (
+				BC55823A25A4080B007A429C /* 9-1 memory address */,
+				BC55829025A409AD007A429C /* 9-2 pointer */,
+				BC5582E725A40B2F007A429C /* 9-3 pointer_2 */,
+				BC55833F25A40D99007A429C /* 9-4 const pointer */,
+				BC55839825A41150007A429C /* 9-5 sizeof pointer */,
+				BC5583F225A41716007A429C /* 9-6 pointer substitution */,
+				BC55844D25A41A33007A429C /* 9-7 pointer_3 */,
+				BC5584A925A42582007A429C /* 9-8 swap without pointer */,
+				BC55850625A43451007A429C /* Question 9-4 */,
+			);
+			path = Chapter_9;
+			sourceTree = "<group>";
+		};
+		BC853ED025B1FB47001024DE /* Chapter_10 */ = {
+			isa = PBXGroup;
+			children = (
+				BC55856425A43B9A007A429C /* 10-1 operate integer to array */,
+				BC5585C325A440FC007A429C /* 10-2 array name pointer */,
+				BC55862325A44331007A429C /* 10-3 array output pointer */,
+				BC55868425A44602007A429C /* 10-4 operate pointer */,
+				BC5586E625A4541A007A429C /* 10-5 array function */,
+				BC55874925A45603007A429C /* 10-6 array function_2 */,
+				BC5587AD25A457A5007A429C /* 10-7 array function_3 */,
+				BC55881225A45D78007A429C /* Question 10-5 */,
+				BC55887825A47419007A429C /* Question 10-6 */,
+			);
+			path = Chapter_10;
+			sourceTree = "<group>";
+		};
+		BC853ED125B1FB4F001024DE /* Chapter_11 */ = {
+			isa = PBXGroup;
+			children = (
+				BC5588DF25A49073007A429C /* 11-1 small to capital */,
+				BC55894725A49207007A429C /* 11-2 scanf char */,
+				BC5589B025A49339007A429C /* 11-3 getchar putchar */,
+				BC5589B125A49339007A429C /* main.c */,
+				BC558A1A25A49714007A429C /* 11-4 buffer */,
+				BC558A8525A499B9007A429C /* 11-5 char ascii code */,
+				BC558AF125A49EB9007A429C /* 11-6 getchar */,
+				BC558B5E25A4A1C3007A429C /* 11-7 empty buffer */,
+				BC558BCC25A4B634007A429C /* Question 11-7 */,
+			);
+			path = Chapter_11;
+			sourceTree = "<group>";
+		};
+		BC853ED225B1FB57001024DE /* Chapter_12 */ = {
+			isa = PBXGroup;
+			children = (
+				BC574B7825A5671A00785A5F /* 12-1 const str array */,
+				BC574BE825A56B1700785A5F /* 12-2 str array with pointer */,
+				BC574C5925A5756200785A5F /* 12-3 str array with scanf */,
+				BC574CCB25A57C8E00785A5F /* 12-5 function fgets */,
+				BC574D3E25A57E7700785A5F /* 12-6 remained in buffer */,
+				BC574DB225A58C2500785A5F /* 12-7 function fputs */,
+				BC574E2725A59F3000785A5F /* Question 12-3 */,
+				BC574E9D25A5A3A300785A5F /* 12-8 function strcpy */,
+				BC574F1425A5A89200785A5F /* 12-9 function strncpy */,
+				BC574F8C25A5ADB900785A5F /* 12-10 function strcat */,
+				BC57500525A5AE5D00785A5F /* 12-11 function strlen */,
+				BC57507F25A5AF8D00785A5F /* 12-12 function strcmp */,
+				BC5750FA25A5B26600785A5F /* 12-13 build function strcpy */,
+				BC57517625A5CAF100785A5F /* Question 12-6 */,
+				BC5751F325A5D74A00785A5F /* Question 12-7 */,
+			);
+			path = Chapter_12;
+			sourceTree = "<group>";
+		};
+		BC853ED325B1FB5F001024DE /* Chapter_13 */ = {
+			isa = PBXGroup;
+			children = (
+				BC0F23F425A5EC5F004DE6B7 /* 13-1 auto variable */,
+				BC0F247325A5FB53004DE6B7 /* 13-2 auto variable_2 */,
+				BC0F24F325A5FC44004DE6B7 /* 13-3 global variable */,
+				BC0F257425A5FE94004DE6B7 /* 13-4 static variable */,
+				BC0F25F625A60009004DE6B7 /* 13-5 register variable */,
+				BC41EBB825A608AA0056494C /* 13-6 share data with other func */,
+				BC41EC3C25A609A20056494C /* 13-7 share data with other func_2 */,
+				BC41ECC125A60AF80056494C /* 13-8 return address */,
+				BC41ED4725A60DEE0056494C /* Question 13-7 */,
+			);
+			path = Chapter_13;
+			sourceTree = "<group>";
+		};
+		BC853ED425B1FB6A001024DE /* Chapter_14 */ = {
+			isa = PBXGroup;
+			children = (
+				BC41EDCE25A611280056494C /* 14-1 2d array */,
+				BC41EE5625A6144D0056494C /* 14-2 initialize 2d array */,
+				BC41EF5D25A617990056494C /* 14-3 char 2d array */,
+				BC41EFE725A619110056494C /* 14-4 initialize char 2d array */,
+				BC41F07225A61DCD0056494C /* 14-5 3d array */,
+				BC71C62F25A6CAB7000230C6 /* 14-6 pointer array */,
+				BC71C6BC25A6D3A4000230C6 /* 14-7 pointer array_2 */,
+				BC71C74A25A6DAF2000230C6 /* Question 14-7 */,
+			);
+			path = Chapter_14;
+			sourceTree = "<group>";
+		};
+		BC853ED525B1FB77001024DE /* Chapter_15 */ = {
+			isa = PBXGroup;
+			children = (
+				BC6C823025A6EB0400875043 /* 15-1 double pointer */,
+				BC6C82C025A6F6EB00875043 /* 15-2 double pointer_2 */,
+				BC6C835125A6FB9D00875043 /* 15-3 double pointer_3 */,
+				BC6C83E325A6FE9A00875043 /* 15-4 array address */,
+				BC6C847625A7010700875043 /* 15-5 2d array and array pointer */,
+				BC6C850A25A73A7600875043 /* 15-7 function pointer */,
+				BC6C859F25A73C8200875043 /* 15-8 function pointer_2 */,
+				BC6C863525A7454C00875043 /* 15-9 void pointer */,
+				BC6C86CC25A74AAD00875043 /* Question 15-7 */,
+			);
+			path = Chapter_15;
+			sourceTree = "<group>";
+		};
+		BC853ED625B1FB7C001024DE /* Chapter_16 */ = {
+			isa = PBXGroup;
+			children = (
+				BC8D9BCE25A8A03400764E04 /* 16-1 function malloc */,
+				BC8D9C6725A8A33600764E04 /* 16-2 function malloc_2 */,
+				BC8D9D0125A8A53300764E04 /* 16-3 functino calloc and realloc */,
+				BC8D9D9C25A8B6E400764E04 /* 16-4 dynamic allocation */,
+				BC8D9E3825A8BA1600764E04 /* 16-5 dynamic allocation_2 */,
+				BC8D9ED525A8C40500764E04 /* 16-6 command line argument */,
+				BC5ACB4A25A961FD00340066 /* Question 16-7 */,
+			);
+			path = Chapter_16;
+			sourceTree = "<group>";
+		};
+		BC853ED725B1FB82001024DE /* Chapter_17 */ = {
+			isa = PBXGroup;
+			children = (
+				BC5ACBE925A9731500340066 /* 17-1 struct */,
+				BC5ACC8925A9758000340066 /* 17-2 struct members */,
+				BC5ACD2A25A97DAE00340066 /* 17-3 struct member of struct */,
+				BC5ACDCC25A98A6000340066 /* 17-4 initailize a struct */,
+				BC5ACE6F25A997FF00340066 /* 17-5 return struct */,
+				BC5ACF1325A99C8300340066 /* Question 17-2 */,
+				BC5ACFB825A99E7400340066 /* 17-6 struct pointer */,
+				BC5AD05E25A9A23900340066 /* 17-7 struct array */,
+				BC5AD10525A9A5F600340066 /* 17-8 struct array_2 */,
+				BC5AD1AD25A9A8C100340066 /* 17-9 self reference structure */,
+				BC5AD25625A9FC3B00340066 /* 17-10 union */,
+				BC5AD30025A9FDDA00340066 /* 17-11 enum */,
+				BC5AD3AB25AA024000340066 /* 17-12 typedef */,
+				BC5AD45725AA08E800340066 /* Question 17-7 */,
+			);
+			path = Chapter_17;
+			sourceTree = "<group>";
+		};
+		BC853ED825B1FB87001024DE /* Chapter_18 */ = {
+			isa = PBXGroup;
+			children = (
+				BC5BF4DF25AB482600AE7A54 /* 18-1 fopen and fclose */,
+				BC70448125AC184E003E9F8B /* 18-2 file output */,
+				BC70453025AC1D49003E9F8B /* 18-3 function fputs */,
+				BC7045E025AC229A003E9F8B /* 18-4 putchar with stdio */,
+				BC70469125AC2454003E9F8B /* 18-5 fgetc and fputc with stdio */,
+				BC70474325AC25CB003E9F8B /* 18-6 filetype and open mode */,
+				BC7047F625AC4EAA003E9F8B /* 18-7 open mode */,
+				BC7048AA25AC5CD8003E9F8B /* 18-8 io each line */,
+				BC70495F25AC6322003E9F8B /* 18-9 fscanf and fprintf */,
+				BC704A1525AC9AF9003E9F8B /* 18-10 problem of share buffer */,
+				BC704ACC25AC9F6D003E9F8B /* 18-11 fread and fwrite */,
+				BC704B8425ACAC7B003E9F8B /* Question 18-7 */,
+			);
+			path = Chapter_18;
+			sourceTree = "<group>";
+		};
+		BC853ED925B1FB8D001024DE /* Chapter_19 */ = {
+			isa = PBXGroup;
+			children = (
+				BCE31F5125AD7A1D0058B186 /* 19-1 custom header */,
+				BCE320BB25AD7DD10058B186 /* 19-2 define */,
+				BCE322D625AD80070058B186 /* 19-3 macro func with define */,
+				BCE3244325AD9EBB0058B186 /* 19-4 preprocessor macro */,
+				BCE3250025ADA0F80058B186 /* 19-5 macro operator */,
+				BCE325BE25ADA21A0058B186 /* 19-6 conditional compile */,
+				BCE3267D25ADA3A20058B186 /* 19-7 pragma directive */,
+				BC76E00925AEEA9700759A4D /* 19-8 compile multiple source file */,
+				BC76E18225AEF61700759A4D /* 19-9 exturn and static */,
+				BC76E3B625AEFACE00759A4D /* 19-10 necessity of header */,
+				BC76E53325AF287D00759A4D /* Question 19-7 */,
+			);
+			path = Chapter_19;
 			sourceTree = "<group>";
 		};
 		BC854A25259ACF1400388DA6 /* 2-1 funtion main */ = {
