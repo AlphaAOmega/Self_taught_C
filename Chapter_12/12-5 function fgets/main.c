@@ -10,10 +10,12 @@
 
 int main(int argc, const char * argv[]) {
     char str[80];
+    char *pa;
     printf("공백이 포함된 문자열 입력 : ");
-    fgets(str, sizeof(str), stdin);
+    pa = fgets(str, sizeof(str), stdin);
     str[strlen(str) - 1] = '\0';
     printf("입력된 문자는 %s입니다.\n", str);
+
     
     return 0;
 }

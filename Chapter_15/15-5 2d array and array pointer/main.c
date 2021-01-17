@@ -2,7 +2,7 @@
 //  main.c
 //  15-5 2d array and array pointer
 //
-//  Created by 하동훈 on 2021/01/07.
+//  Created by 하동훈 on 2021/01/07.
 //
 
 #include <stdio.h>
