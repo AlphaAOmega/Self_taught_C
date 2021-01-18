@@ -7,87 +7,87 @@
 		<key>10-1 operate integer to array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>113</integer>
+			<integer>21</integer>
 		</dict>
 		<key>10-2 array name pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>178</integer>
+			<integer>113</integer>
 		</dict>
 		<key>10-3 array output pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>100</integer>
+			<integer>59</integer>
 		</dict>
 		<key>10-4 operate pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>54</integer>
+			<integer>119</integer>
 		</dict>
 		<key>10-5 array function.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>83</integer>
+			<integer>97</integer>
 		</dict>
 		<key>10-6 array function_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>134</integer>
+			<integer>61</integer>
 		</dict>
 		<key>10-7 array function_3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>162</integer>
+			<integer>19</integer>
 		</dict>
 		<key>11-1 small to capital.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>131</integer>
+			<integer>57</integer>
 		</dict>
 		<key>11-2 scanf char.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>43</integer>
+			<integer>154</integer>
 		</dict>
 		<key>11-3 getchar putchar.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>137</integer>
 		</dict>
 		<key>11-4 buffer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>24</integer>
 		</dict>
 		<key>11-5 char ascii code.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>138</integer>
+			<integer>140</integer>
 		</dict>
 		<key>11-6 getchar.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>184</integer>
+			<integer>167</integer>
 		</dict>
 		<key>11-7 empty buffer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>169</integer>
+			<integer>78</integer>
 		</dict>
 		<key>12-1 const str array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>146</integer>
+			<integer>112</integer>
 		</dict>
 		<key>12-10 function strcat.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>159</integer>
+			<integer>68</integer>
 		</dict>
 		<key>12-11 function strlen.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>105</integer>
+			<integer>45</integer>
 		</dict>
 		<key>12-12 function strcmp.xcscheme_^#shared#^_</key>
 		<dict>
@@ -97,249 +97,249 @@
 		<key>12-13 build function strcpy.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>85</integer>
+			<integer>103</integer>
 		</dict>
 		<key>12-2 str array with pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>92</integer>
+			<integer>73</integer>
 		</dict>
 		<key>12-3 str array with scanf.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>150</integer>
+			<integer>29</integer>
 		</dict>
 		<key>12-5 function fgets.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>163</integer>
+			<integer>77</integer>
 		</dict>
 		<key>12-6 remained in buffer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>38</integer>
+			<integer>155</integer>
 		</dict>
 		<key>12-7 function fputs.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>52</integer>
+			<integer>132</integer>
 		</dict>
 		<key>12-8 function strcpy.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>155</integer>
+			<integer>64</integer>
 		</dict>
 		<key>12-9 function strncpy.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>182</integer>
+			<integer>91</integer>
 		</dict>
 		<key>13-1 auto variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>145</integer>
+			<integer>146</integer>
 		</dict>
 		<key>13-2 auto variable_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>75</integer>
+			<integer>69</integer>
 		</dict>
 		<key>13-3 global variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>96</integer>
+			<integer>152</integer>
 		</dict>
 		<key>13-4 static variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>60</integer>
+			<integer>17</integer>
 		</dict>
 		<key>13-5 register variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>82</integer>
 		</dict>
 		<key>13-6 share data with other func.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>147</integer>
+			<integer>136</integer>
 		</dict>
 		<key>13-7 share data with other func_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>40</integer>
+			<integer>178</integer>
 		</dict>
 		<key>13-8 return address.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>122</integer>
+			<integer>108</integer>
 		</dict>
 		<key>14-1 2d array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>151</integer>
+			<integer>20</integer>
 		</dict>
 		<key>14-2 initailize 2d array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>30</integer>
+			<integer>60</integer>
 		</dict>
 		<key>14-3 char 2d array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>72</integer>
+			<integer>54</integer>
 		</dict>
 		<key>14-4 initialize char 2d array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>123</integer>
+			<integer>79</integer>
 		</dict>
 		<key>14-5 3d array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>118</integer>
+			<integer>122</integer>
 		</dict>
 		<key>14-6 pointer array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
 			<key>orderHint</key>
-			<integer>94</integer>
+			<integer>27</integer>
 		</dict>
 		<key>14-7 pointer array_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>39</integer>
+			<integer>13</integer>
 		</dict>
 		<key>15-1 double pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>149</integer>
+			<integer>37</integer>
 		</dict>
 		<key>15-2 double pointer_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>97</integer>
+			<integer>34</integer>
 		</dict>
 		<key>15-3 double pointer_3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>33</integer>
+			<integer>161</integer>
 		</dict>
 		<key>15-4 array address.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>133</integer>
+			<integer>58</integer>
 		</dict>
 		<key>15-5 2d array and array pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>166</integer>
+			<integer>81</integer>
 		</dict>
 		<key>15-7 function pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>69</integer>
+			<integer>133</integer>
 		</dict>
 		<key>15-8 function pointer_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>84</integer>
 		</dict>
 		<key>15-9 void pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>172</integer>
+			<integer>98</integer>
 		</dict>
 		<key>16-1 function malloc.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>82</integer>
+			<integer>134</integer>
 		</dict>
 		<key>16-2 function malloc_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>99</integer>
+			<integer>65</integer>
 		</dict>
 		<key>16-3 functino calloc and realloc.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>36</integer>
+			<integer>176</integer>
 		</dict>
 		<key>16-4 dynamic allocation.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>144</integer>
+			<integer>121</integer>
 		</dict>
 		<key>16-5 dynamic allocation_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>174</integer>
 		</dict>
 		<key>16-6 command line argument.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>183</integer>
+			<integer>149</integer>
 		</dict>
 		<key>17-1 struct.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>111</integer>
+			<integer>67</integer>
 		</dict>
 		<key>17-10 union.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>81</integer>
+			<integer>145</integer>
 		</dict>
 		<key>17-11 enum.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>127</integer>
+			<integer>173</integer>
 		</dict>
 		<key>17-12 typedef.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>47</integer>
+			<integer>177</integer>
 		</dict>
 		<key>17-2 struct members.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>42</integer>
+			<integer>99</integer>
 		</dict>
 		<key>17-3 struct member of struct.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>154</integer>
+			<integer>56</integer>
 		</dict>
 		<key>17-4 initailize a struct.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>115</integer>
+			<integer>16</integer>
 		</dict>
 		<key>17-5 return struct.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>73</integer>
+			<integer>126</integer>
 		</dict>
 		<key>17-6 struct pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>62</integer>
+			<integer>14</integer>
 		</dict>
 		<key>17-7 struct array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>171</integer>
+			<integer>85</integer>
 		</dict>
 		<key>17-8 struct array_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>86</integer>
+			<integer>25</integer>
 		</dict>
 		<key>17-9 self reference structure.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>63</integer>
+			<integer>129</integer>
 		</dict>
 		<key>18-1 fopen and fclose.xcscheme_^#shared#^_</key>
 		<dict>
@@ -364,17 +364,17 @@
 		<key>18-3 function fputs.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>153</integer>
+			<integer>169</integer>
 		</dict>
 		<key>18-4 putchar with stdio.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>66</integer>
+			<integer>147</integer>
 		</dict>
 		<key>18-5 fgetc and fputc with stdio.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>139</integer>
+			<integer>80</integer>
 		</dict>
 		<key>18-6 filetype and open mode.xcscheme_^#shared#^_</key>
 		<dict>
@@ -384,7 +384,7 @@
 		<key>18-7 open mode.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>64</integer>
+			<integer>51</integer>
 		</dict>
 		<key>18-8 io each line.xcscheme_^#shared#^_</key>
 		<dict>
@@ -399,12 +399,12 @@
 		<key>19-1 custom header.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>48</integer>
+			<integer>30</integer>
 		</dict>
 		<key>19-10 necessity of header.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>140</integer>
+			<integer>118</integer>
 		</dict>
 		<key>19-2 define.xcscheme_^#shared#^_</key>
 		<dict>
@@ -414,402 +414,402 @@
 		<key>19-2 macro func with define.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>58</integer>
+			<integer>94</integer>
 		</dict>
 		<key>19-4 preprocessor macro.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>56</integer>
+			<integer>142</integer>
 		</dict>
 		<key>19-5 macro operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>45</integer>
+			<integer>15</integer>
 		</dict>
 		<key>19-6 conditional compile.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>117</integer>
+			<integer>107</integer>
 		</dict>
 		<key>19-7 pragma directive.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>116</integer>
+			<integer>26</integer>
 		</dict>
 		<key>19-8 compile multiple source file.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>67</integer>
+			<integer>48</integer>
 		</dict>
 		<key>19-9 exturn and static.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>50</integer>
+			<integer>120</integer>
 		</dict>
 		<key>2-1 funtion main.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>37</integer>
+			<integer>36</integer>
 		</dict>
 		<key>2-2 String output.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>109</integer>
+			<integer>182</integer>
 		</dict>
 		<key>2-3 Control characters.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>160</integer>
+			<integer>93</integer>
 		</dict>
 		<key>2-4 Integer and real number.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>121</integer>
+			<integer>33</integer>
 		</dict>
 		<key>2-5 Output in 3 notations.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>44</integer>
+			<integer>62</integer>
 		</dict>
 		<key>2-6 Nomalization.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>49</integer>
+			<integer>105</integer>
 		</dict>
 		<key>2-7 Character and string.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>89</integer>
+			<integer>70</integer>
 		</dict>
 		<key>3-1 Define variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>78</integer>
+			<integer>168</integer>
 		</dict>
 		<key>3-10 Scanf funtion_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>124</integer>
+			<integer>43</integer>
 		</dict>
 		<key>3-11 Scanf funtion_3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>165</integer>
+			<integer>10</integer>
 		</dict>
 		<key>3-2 Char type variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>180</integer>
 		</dict>
 		<key>3-4 Unsigned integer variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>177</integer>
+			<integer>166</integer>
 		</dict>
 		<key>3-5 Significant digit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>173</integer>
+			<integer>101</integer>
 		</dict>
 		<key>3-8 Const variable.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>95</integer>
+			<integer>49</integer>
 		</dict>
 		<key>3-9 Scanf function.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>92</integer>
 		</dict>
 		<key>4-1 Arithmetic operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>102</integer>
+			<integer>32</integer>
 		</dict>
 		<key>4-10 Complex entry operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>66</integer>
 		</dict>
 		<key>4-11 Comma operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>23</integer>
+			<integer>125</integer>
 		</dict>
 		<key>4-12 Conditional operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>51</integer>
+			<integer>96</integer>
 		</dict>
 		<key>4-13 Bit operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>101</integer>
+			<integer>138</integer>
 		</dict>
 		<key>4-14 Operator priority.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>128</integer>
+			<integer>12</integer>
 		</dict>
 		<key>4-2 Devide operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>87</integer>
 		</dict>
 		<key>4-4 Prefix and postfix.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>98</integer>
+			<integer>55</integer>
 		</dict>
 		<key>4-5 Relational operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>80</integer>
+			<integer>159</integer>
 		</dict>
 		<key>4-6 Logical operator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>57</integer>
+			<integer>165</integer>
 		</dict>
 		<key>4-7 Use result.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>174</integer>
+			<integer>115</integer>
 		</dict>
 		<key>4-8 Shape conversion.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>148</integer>
+			<integer>35</integer>
 		</dict>
 		<key>4-9 Operator sizeof.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>110</integer>
+			<integer>171</integer>
 		</dict>
 		<key>5-1 If sentence.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>156</integer>
+			<integer>50</integer>
 		</dict>
 		<key>5-2 If else sentence.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>46</integer>
 		</dict>
 		<key>5-4 Duplicate if.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>53</integer>
+			<integer>88</integer>
 		</dict>
 		<key>5-4 else if sentence.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>107</integer>
+			<integer>156</integer>
 		</dict>
 		<key>5-5 Dupilcate if_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>76</integer>
+			<integer>104</integer>
 		</dict>
 		<key>5-6 switch case.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>130</integer>
+			<integer>71</integer>
 		</dict>
 		<key>6-1 while.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>170</integer>
+			<integer>151</integer>
 		</dict>
 		<key>6-2 for.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>142</integer>
+			<integer>75</integer>
 		</dict>
 		<key>6-3 do while.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>71</integer>
+			<integer>31</integer>
 		</dict>
 		<key>6-4 Nested iteration.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>104</integer>
+			<integer>157</integer>
 		</dict>
 		<key>6-5 break.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>167</integer>
+			<integer>163</integer>
 		</dict>
 		<key>7-1 Two function.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>114</integer>
+			<integer>148</integer>
 		</dict>
 		<key>7-2 function without parameter.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>132</integer>
+			<integer>110</integer>
 		</dict>
 		<key>7-3 function without return.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>176</integer>
+			<integer>47</integer>
 		</dict>
 		<key>7-4 function without both.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>141</integer>
+			<integer>170</integer>
 		</dict>
 		<key>7-5 Recursive function.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>90</integer>
+			<integer>11</integer>
 		</dict>
 		<key>7-6 Recursive function_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>106</integer>
+			<integer>123</integer>
 		</dict>
 		<key>8-1 Array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>143</integer>
+			<integer>18</integer>
 		</dict>
 		<key>8-2 iteration array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>168</integer>
+			<integer>106</integer>
 		</dict>
 		<key>8-3 sizeof array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>46</integer>
+			<integer>38</integer>
 		</dict>
 		<key>8-4 char array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>120</integer>
+			<integer>150</integer>
 		</dict>
 		<key>8-5 function strcpy.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>53</integer>
 		</dict>
 		<key>8-6 gets puts.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>61</integer>
+			<integer>89</integer>
 		</dict>
 		<key>8-7 without null.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>68</integer>
+			<integer>28</integer>
 		</dict>
 		<key>9-1 memory address.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>179</integer>
+			<integer>41</integer>
 		</dict>
 		<key>9-2 pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>79</integer>
+			<integer>90</integer>
 		</dict>
 		<key>9-3 pointer_2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>70</integer>
+			<integer>72</integer>
 		</dict>
 		<key>9-4 const pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>24</integer>
+			<integer>130</integer>
 		</dict>
 		<key>9-5 sizeof pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>77</integer>
+			<integer>160</integer>
 		</dict>
 		<key>9-6 pointer substitution.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>137</integer>
+			<integer>22</integer>
 		</dict>
 		<key>9-7 pointer_3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>125</integer>
+			<integer>23</integer>
 		</dict>
 		<key>9-8 swap without pointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>88</integer>
+			<integer>83</integer>
 		</dict>
 		<key>Copy str to char array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>164</integer>
+			<integer>124</integer>
 		</dict>
 		<key>Increment and decrement.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>164</integer>
 		</dict>
 		<key>Question 10-5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>29</integer>
+			<integer>143</integer>
 		</dict>
 		<key>Question 10-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>135</integer>
+			<integer>86</integer>
 		</dict>
 		<key>Question 11-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>91</integer>
+			<integer>141</integer>
 		</dict>
 		<key>Question 12-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>87</integer>
+			<integer>175</integer>
 		</dict>
 		<key>Question 12-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>181</integer>
+			<integer>95</integer>
 		</dict>
 		<key>Question 12-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>93</integer>
+			<integer>117</integer>
 		</dict>
 		<key>Question 13-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>184</integer>
 		</dict>
 		<key>Question 14-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>129</integer>
+			<integer>111</integer>
 		</dict>
 		<key>Question 15-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>108</integer>
+			<integer>42</integer>
 		</dict>
 		<key>Question 16-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>144</integer>
 		</dict>
 		<key>Question 17-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>74</integer>
+			<integer>135</integer>
 		</dict>
 		<key>Question 17-7.xcscheme_^#shared#^_</key>
 		<dict>
@@ -824,112 +824,112 @@
 		<key>Question 19-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>152</integer>
+			<integer>181</integer>
 		</dict>
 		<key>Question 4-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>84</integer>
+			<integer>74</integer>
 		</dict>
 		<key>Question 4-4.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>161</integer>
+			<integer>102</integer>
 		</dict>
 		<key>Question 5-1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>175</integer>
+			<integer>114</integer>
 		</dict>
 		<key>Question 5-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>136</integer>
+			<integer>109</integer>
 		</dict>
 		<key>Question 5-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>35</integer>
+			<integer>128</integer>
 		</dict>
 		<key>Question 5-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>103</integer>
+			<integer>127</integer>
 		</dict>
 		<key>Question 5-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>157</integer>
+			<integer>52</integer>
 		</dict>
 		<key>Question 6-1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>41</integer>
+			<integer>183</integer>
 		</dict>
 		<key>Question 6-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>44</integer>
 		</dict>
 		<key>Question 6-5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>112</integer>
+			<integer>63</integer>
 		</dict>
 		<key>Question 6-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>34</integer>
+			<integer>179</integer>
 		</dict>
 		<key>Question 7-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>126</integer>
+			<integer>131</integer>
 		</dict>
 		<key>Question 7-5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>59</integer>
+			<integer>153</integer>
 		</dict>
 		<key>Question 7-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>119</integer>
+			<integer>76</integer>
 		</dict>
 		<key>Question 8-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>65</integer>
+			<integer>116</integer>
 		</dict>
 		<key>Question 8-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>55</integer>
+			<integer>172</integer>
 		</dict>
 		<key>Question 8-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>32</integer>
+			<integer>100</integer>
 		</dict>
 		<key>Question 9-4.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>39</integer>
 		</dict>
 		<key>Self_taught_C.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>139</integer>
 		</dict>
 		<key>String in char arrangement.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>40</integer>
 		</dict>
 		<key>Variety variables.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>180</integer>
+			<integer>162</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
