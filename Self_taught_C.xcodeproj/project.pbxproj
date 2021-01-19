@@ -115,6 +115,10 @@
 		BC76E2F925AEF80C00759A4D /* average.c in Sources */ = {isa = PBXBuildFile; fileRef = BC76E2F825AEF80C00759A4D /* average.c */; };
 		BC76E3B825AEFACE00759A4D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC76E3B725AEFACE00759A4D /* main.c */; };
 		BC76E53525AF287D00759A4D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC76E53425AF287D00759A4D /* main.c */; };
+		BC800DDD25B6BDB800FDBD9B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC800DDC25B6BDB800FDBD9B /* main.c */; };
+		BC80101725B6C21700FDBD9B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC80101625B6C21700FDBD9B /* main.c */; };
+		BC8010DD25B6C34900FDBD9B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC8010DC25B6C34900FDBD9B /* main.c */; };
+		BC8011A425B6C62000FDBD9B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC8011A325B6C62000FDBD9B /* main.c */; };
 		BC854A27259ACF1400388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A26259ACF1400388DA6 /* main.c */; };
 		BC854A34259AD03A00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A33259AD03A00388DA6 /* main.c */; };
 		BC854A42259AD12D00388DA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BC854A41259AD12D00388DA6 /* main.c */; };
@@ -1143,6 +1147,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		BC800DD825B6BDB800FDBD9B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC80101225B6C21700FDBD9B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC8010D825B6C34900FDBD9B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		BC80119F25B6C62000FDBD9B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		BC854A22259ACF1400388DA6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2081,6 +2121,14 @@
 		BC76E47525AF24C300759A4D /* line.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = line.h; sourceTree = "<group>"; };
 		BC76E53225AF287D00759A4D /* Question 19-7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Question 19-7"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC76E53425AF287D00759A4D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC800DDA25B6BDB800FDBD9B /* 1_triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1_triangle; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC800DDC25B6BDB800FDBD9B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC80101425B6C21700FDBD9B /* 2_inverted triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2_inverted triangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC80101625B6C21700FDBD9B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC8010DA25B6C34900FDBD9B /* 3_multiples of 3 and 5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3_multiples of 3 and 5"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8010DC25B6C34900FDBD9B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BC8011A125B6C62000FDBD9B /* 4_Fibonacci numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4_Fibonacci numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8011A325B6C62000FDBD9B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854A24259ACF1400388DA6 /* 2-1 funtion main */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-1 funtion main"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC854A26259ACF1400388DA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC854A31259AD03A00388DA6 /* 2-2 String output */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-2 String output"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2980,6 +3028,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BC800DD725B6BDB800FDBD9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC80101125B6C21700FDBD9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8010D725B6C34900FDBD9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC80119E25B6C62000FDBD9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BC854A21259ACF1400388DA6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -3565,6 +3641,10 @@
 				BC853ED725B1FB82001024DE /* Chapter_17 */,
 				BC853ED825B1FB87001024DE /* Chapter_18 */,
 				BC853ED925B1FB8D001024DE /* Chapter_19 */,
+				BC800E9B25B6BDC500FDBD9B /* Algorithm */,
+				BC80101525B6C21700FDBD9B /* 2_inverted triangle */,
+				BC8010DB25B6C34900FDBD9B /* 3_multiples of 3 and 5 */,
+				BC8011A225B6C62000FDBD9B /* 4_Fibonacci numbers */,
 				BC0DB66A259A2D0000016AC9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -3757,6 +3837,10 @@
 				BC76E18125AEF61700759A4D /* 19-9 exturn and static */,
 				BC76E3B525AEFACE00759A4D /* 19-10 necessity of header */,
 				BC76E53225AF287D00759A4D /* Question 19-7 */,
+				BC800DDA25B6BDB800FDBD9B /* 1_triangle */,
+				BC80101425B6C21700FDBD9B /* 2_inverted triangle */,
+				BC8010DA25B6C34900FDBD9B /* 3_multiples of 3 and 5 */,
+				BC8011A125B6C62000FDBD9B /* 4_Fibonacci numbers */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -4603,6 +4687,46 @@
 				BC76E53425AF287D00759A4D /* main.c */,
 			);
 			path = "Question 19-7";
+			sourceTree = "<group>";
+		};
+		BC800DDB25B6BDB800FDBD9B /* 1_triangle */ = {
+			isa = PBXGroup;
+			children = (
+				BC800DDC25B6BDB800FDBD9B /* main.c */,
+			);
+			path = 1_triangle;
+			sourceTree = "<group>";
+		};
+		BC800E9B25B6BDC500FDBD9B /* Algorithm */ = {
+			isa = PBXGroup;
+			children = (
+				BC800DDB25B6BDB800FDBD9B /* 1_triangle */,
+			);
+			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		BC80101525B6C21700FDBD9B /* 2_inverted triangle */ = {
+			isa = PBXGroup;
+			children = (
+				BC80101625B6C21700FDBD9B /* main.c */,
+			);
+			path = "2_inverted triangle";
+			sourceTree = "<group>";
+		};
+		BC8010DB25B6C34900FDBD9B /* 3_multiples of 3 and 5 */ = {
+			isa = PBXGroup;
+			children = (
+				BC8010DC25B6C34900FDBD9B /* main.c */,
+			);
+			path = "3_multiples of 3 and 5";
+			sourceTree = "<group>";
+		};
+		BC8011A225B6C62000FDBD9B /* 4_Fibonacci numbers */ = {
+			isa = PBXGroup;
+			children = (
+				BC8011A325B6C62000FDBD9B /* main.c */,
+			);
+			path = "4_Fibonacci numbers";
 			sourceTree = "<group>";
 		};
 		BC853E0E25B1FA18001024DE /* Chapter_1 */ = {
@@ -7353,6 +7477,74 @@
 			productReference = BC76E53225AF287D00759A4D /* Question 19-7 */;
 			productType = "com.apple.product-type.tool";
 		};
+		BC800DD925B6BDB800FDBD9B /* 1_triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC800DE025B6BDB800FDBD9B /* Build configuration list for PBXNativeTarget "1_triangle" */;
+			buildPhases = (
+				BC800DD625B6BDB800FDBD9B /* Sources */,
+				BC800DD725B6BDB800FDBD9B /* Frameworks */,
+				BC800DD825B6BDB800FDBD9B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 1_triangle;
+			productName = 1_triangle;
+			productReference = BC800DDA25B6BDB800FDBD9B /* 1_triangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC80101325B6C21700FDBD9B /* 2_inverted triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC80101825B6C21700FDBD9B /* Build configuration list for PBXNativeTarget "2_inverted triangle" */;
+			buildPhases = (
+				BC80101025B6C21700FDBD9B /* Sources */,
+				BC80101125B6C21700FDBD9B /* Frameworks */,
+				BC80101225B6C21700FDBD9B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "2_inverted triangle";
+			productName = "2_inverted triangle";
+			productReference = BC80101425B6C21700FDBD9B /* 2_inverted triangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC8010D925B6C34900FDBD9B /* 3_multiples of 3 and 5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC8010DE25B6C34900FDBD9B /* Build configuration list for PBXNativeTarget "3_multiples of 3 and 5" */;
+			buildPhases = (
+				BC8010D625B6C34900FDBD9B /* Sources */,
+				BC8010D725B6C34900FDBD9B /* Frameworks */,
+				BC8010D825B6C34900FDBD9B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "3_multiples of 3 and 5";
+			productName = "3_multiples of 3 and 5";
+			productReference = BC8010DA25B6C34900FDBD9B /* 3_multiples of 3 and 5 */;
+			productType = "com.apple.product-type.tool";
+		};
+		BC8011A025B6C62000FDBD9B /* 4_Fibonacci numbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC8011A525B6C62000FDBD9B /* Build configuration list for PBXNativeTarget "4_Fibonacci numbers" */;
+			buildPhases = (
+				BC80119D25B6C62000FDBD9B /* Sources */,
+				BC80119E25B6C62000FDBD9B /* Frameworks */,
+				BC80119F25B6C62000FDBD9B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4_Fibonacci numbers";
+			productName = "4_Fibonacci numbers";
+			productReference = BC8011A125B6C62000FDBD9B /* 4_Fibonacci numbers */;
+			productType = "com.apple.product-type.tool";
+		};
 		BC854A23259ACF1400388DA6 /* 2-1 funtion main */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BC854A2A259ACF1400388DA6 /* Build configuration list for PBXNativeTarget "2-1 funtion main" */;
@@ -9037,6 +9229,18 @@
 					BC76E53125AF287D00759A4D = {
 						CreatedOnToolsVersion = 12.3;
 					};
+					BC800DD925B6BDB800FDBD9B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC80101325B6C21700FDBD9B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC8010D925B6C34900FDBD9B = {
+						CreatedOnToolsVersion = 12.3;
+					};
+					BC8011A025B6C62000FDBD9B = {
+						CreatedOnToolsVersion = 12.3;
+					};
 					BC854A23259ACF1400388DA6 = {
 						CreatedOnToolsVersion = 12.2;
 					};
@@ -9477,6 +9681,10 @@
 				BC76E18025AEF61700759A4D /* 19-9 exturn and static */,
 				BC76E3B425AEFACE00759A4D /* 19-10 necessity of header */,
 				BC76E53125AF287D00759A4D /* Question 19-7 */,
+				BC800DD925B6BDB800FDBD9B /* 1_triangle */,
+				BC80101325B6C21700FDBD9B /* 2_inverted triangle */,
+				BC8010D925B6C34900FDBD9B /* 3_multiples of 3 and 5 */,
+				BC8011A025B6C62000FDBD9B /* 4_Fibonacci numbers */,
 			);
 		};
 /* End PBXProject section */
@@ -10322,6 +10530,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC76E53525AF287D00759A4D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC800DD625B6BDB800FDBD9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC800DDD25B6BDB800FDBD9B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC80101025B6C21700FDBD9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC80101725B6C21700FDBD9B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC8010D625B6C34900FDBD9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC8010DD25B6C34900FDBD9B /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC80119D25B6C62000FDBD9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC8011A425B6C62000FDBD9B /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -13389,6 +13629,94 @@
 			};
 			name = Release;
 		};
+		BC800DDE25B6BDB800FDBD9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC800DDF25B6BDB800FDBD9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC80101925B6C21700FDBD9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC80101A25B6C21700FDBD9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC8010DF25B6C34900FDBD9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC8010E025B6C34900FDBD9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BC8011A625B6C62000FDBD9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BC8011A725B6C62000FDBD9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UL264WB4Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		BC854A28259ACF1400388DA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -16164,6 +16492,42 @@
 			buildConfigurations = (
 				BC76E53725AF287D00759A4D /* Debug */,
 				BC76E53825AF287D00759A4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC800DE025B6BDB800FDBD9B /* Build configuration list for PBXNativeTarget "1_triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC800DDE25B6BDB800FDBD9B /* Debug */,
+				BC800DDF25B6BDB800FDBD9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC80101825B6C21700FDBD9B /* Build configuration list for PBXNativeTarget "2_inverted triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC80101925B6C21700FDBD9B /* Debug */,
+				BC80101A25B6C21700FDBD9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC8010DE25B6C34900FDBD9B /* Build configuration list for PBXNativeTarget "3_multiples of 3 and 5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC8010DF25B6C34900FDBD9B /* Debug */,
+				BC8010E025B6C34900FDBD9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC8011A525B6C62000FDBD9B /* Build configuration list for PBXNativeTarget "4_Fibonacci numbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC8011A625B6C62000FDBD9B /* Debug */,
+				BC8011A725B6C62000FDBD9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
