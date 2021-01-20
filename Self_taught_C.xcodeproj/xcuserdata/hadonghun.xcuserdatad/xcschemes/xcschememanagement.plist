@@ -39,6 +39,11 @@
 			<key>orderHint</key>
 			<integer>141</integer>
 		</dict>
+		<key>10_sort mul list.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
 		<key>11-1 small to capital.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -636,6 +641,11 @@
 			<key>orderHint</key>
 			<integer>72</integer>
 		</dict>
+		<key>5_casting.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>189</integer>
+		</dict>
 		<key>6-1 while.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -660,6 +670,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>66</integer>
+		</dict>
+		<key>6_prime number.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>190</integer>
 		</dict>
 		<key>7-1 Two function.xcscheme_^#shared#^_</key>
 		<dict>
@@ -690,6 +705,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>52</integer>
+		</dict>
+		<key>7_factorize.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
 		</dict>
 		<key>8-1 Array.xcscheme_^#shared#^_</key>
 		<dict>
@@ -722,6 +742,11 @@
 			<integer>162</integer>
 		</dict>
 		<key>8-7 without null.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>8_sort function.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>11</integer>
@@ -765,6 +790,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>73</integer>
+		</dict>
+		<key>9_multiple array parameter.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
 		</dict>
 		<key>Copy str to char array.xcscheme_^#shared#^_</key>
 		<dict>
@@ -995,6 +1025,26 @@
 			<true/>
 		</dict>
 		<key>BC704B8225ACAC7B003E9F8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC8610AC25B7FCE900F87E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC86117725B805F100F87E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC86124325B8097100F87E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC86131025B8118500F87E45</key>
 		<dict>
 			<key>primary</key>
 			<true/>
