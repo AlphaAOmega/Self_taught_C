@@ -79,6 +79,11 @@
 			<key>orderHint</key>
 			<integer>96</integer>
 		</dict>
+		<key>11_Euclidean Algorithm.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>12-1 const str array.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -1045,6 +1050,11 @@
 			<true/>
 		</dict>
 		<key>BC86131025B8118500F87E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC86187025B8248B00F87E45</key>
 		<dict>
 			<key>primary</key>
 			<true/>
