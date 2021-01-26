@@ -461,6 +461,11 @@
 			<key>orderHint</key>
 			<integer>130</integer>
 		</dict>
+		<key>1924_2007.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>1_triangle.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -1035,6 +1040,11 @@
 			<true/>
 		</dict>
 		<key>BC704B8225ACAC7B003E9F8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC81D78F25C04369000E39A7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
